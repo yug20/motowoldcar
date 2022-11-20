@@ -1,0 +1,5849 @@
+@media only screen and (min-width: 1430px) {
+    .container {
+        max-width: 1290px;
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    .container {
+        max-width: 1630px;
+    }
+}
+
+@media only screen and (max-width: 1799px) {
+    header.mainheader {
+        padding: 0 24px 0 34px !important;
+    }
+
+    .homeheroinfo h1 {
+        font-size: 100px;
+    }
+
+    .homeheroinfo p {
+        max-width: 649px;
+    }
+
+    .homeheroinfo {
+        left: 62px;
+    }
+
+    section.herohome:after {
+        content: "";
+        position: absolute;
+        left: -140px;
+        top: -5px;
+        height: 100%;
+        background: url(../images/herocarmain.png);
+        width: 110%;
+    }
+
+    .storageinfo:after {
+        font-size: 115px;
+        top: -65px;
+        left: -109px;
+    }
+
+    .storageinfo:after {
+        font-size: 110px;
+        top: -60px;
+    }
+
+    .storageinfo h2 {
+        margin-bottom: 20px;
+    }
+
+    ul.storagesubinfo {
+        margin: 0 !important;
+    }
+
+    ul.storagesubinfo li {
+        margin-bottom: 20px;
+    }
+
+    .whitebtn {
+        margin-top: 25px;
+    }
+
+    .whitebtn a {
+        width: 200px;
+    }
+
+    .whitebtn a:after {
+        width: 200px;
+    }
+
+    .infoheromember:after {
+        left: -483px;
+        font-size: 130px;
+    }
+
+    .memberheroinfo {
+        padding: 0 50px;
+    }
+
+    section.socialmem.bgblack {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    section.socialmem {
+        padding-left: 50px;
+        /* padding-right: 50px; */
+    }
+
+    .vertical-tabs {
+        padding: 0 40px 0;
+    }
+
+    /********************* Membership **********************/
+    header.memberheader.fixed {
+        padding: 0 20px;
+    }
+
+    section.socialmem.bgblack {
+        display: flex;
+        align-items: center;
+    }
+
+    nav.navbar.navbar-expand-lg {
+        padding: 0 20px;
+    }
+
+    /************************************** STORAGES ***************************************/
+    video {
+        width: 1719px;
+    }
+
+    section.storageoption {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .storagetitle h1 {
+        margin-bottom: 34px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    .guideinfo {
+        padding-left: 10px;
+    }
+
+    .guideinfo h1 {
+        font-size: 100px;
+    }
+
+    #guide .owl-nav {
+        top: auto;
+        bottom: -40px;
+    }
+
+    /*****************************  RANATL *********************************/
+    .eventrental {
+        padding-left: 20px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 90px;
+        line-height: 110px;
+    }
+
+    .collectioninfo {
+        padding: 33px;
+    }
+
+    .eventrental h1 {
+        font-size: 90px;
+    }
+
+    .eventrental p {
+        max-width: 551px;
+    }
+
+    /**************************************** DETAIL *****************************************/
+    ul.infocar:after {
+        display: none;
+    }
+
+    section.infosection {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    /*********************** MEMBER EVENTS **********************************/
+    .socialmeminfo h2 br {
+        display: none;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 47px;
+    }
+
+    .storagetitle h1 {
+        font-size: 88px;
+        line-height: 114px;
+    }
+
+    header.mainheader {
+        padding: 0 24px 0 34px !important;
+    }
+
+    .homeheroinfo h1 {
+        font-size: 100px;
+    }
+
+    .homeheroinfo p {
+        max-width: 649px;
+    }
+
+    .homeheroinfo {
+        left: 62px;
+    }
+
+    section.herohome:after {
+        top: 0;
+    }
+
+    .storageinfo:after {
+        font-size: 115px;
+        top: -65px;
+        left: -109px;
+    }
+
+    .storageinfo:after {
+        font-size: 110px;
+        top: -60px;
+    }
+
+    .storageinfo h2 {
+        margin-bottom: 20px;
+    }
+
+    ul.storagesubinfo {
+        margin: 0 !important;
+    }
+
+    ul.storagesubinfo li {
+        margin-bottom: 20px;
+    }
+
+    .whitebtn {
+        margin-top: 25px;
+    }
+
+    .whitebtn a {
+        width: 200px;
+    }
+
+    .whitebtn a:after {
+        width: 200px;
+    }
+
+    .infoheromember:after {
+        left: -483px;
+        font-size: 130px;
+    }
+
+    .memberheroinfo {
+        padding: 0 50px;
+    }
+
+    section.socialmem.bgblack {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    section.socialmem {
+        padding-left: 50px;
+        /* padding-right: 50px; */
+    }
+
+    .vertical-tabs {
+        padding: 0 40px 0;
+    }
+
+
+
+    /************************************** STORAGES ***************************************/
+
+
+    section.storageoption {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .storagetitle h1 {
+        margin-bottom: 34px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    .guideinfo {
+        padding-left: 10px;
+    }
+
+    .guideinfo h1 {
+        font-size: 100px;
+    }
+
+    /*****************************  RANATL *********************************/
+    .eventrental {
+        padding-left: 20px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 90px;
+        line-height: 110px;
+    }
+
+    .collectioninfo {
+        padding: 33px;
+    }
+
+    .eventrental h1 {
+        font-size: 90px;
+    }
+
+    .eventrental p {
+        max-width: 551px;
+    }
+
+
+    /*********************** MEMBER EVENTS **********************************/
+    .socialmeminfo h2 br {
+        display: none;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 47px;
+    }
+
+    .storagetitle h1 {
+        font-size: 88px;
+        line-height: 114px;
+    }
+
+    .heroimages img {
+        height: 256px;
+    }
+}
+
+@media only screen and (max-width: 1599px) {
+    .homeheroinfo {
+        left: 30px;
+    }
+
+    .homeheroinfo h1 {
+        font-size: 90px;
+    }
+
+    .homeheroinfo p {
+        max-width: 611px;
+    }
+
+    section.herohome:after {
+        left: 0;
+        left: -145px;
+        width: 110%;
+    }
+
+    /************************************** STORAGES ***************************************/
+
+    .storageinfo {
+        padding-left: 60px;
+    }
+
+    .storageinfo {
+        padding-left: 50px;
+    }
+
+    .storageinfo h2 {
+        font-size: 61px;
+        margin: 0;
+    }
+
+    .storageinfo:after {
+        font-size: 90px;
+        left: 13px !important;
+        top: -55px;
+    }
+
+    .storagemain {
+        padding-left: 80px;
+    }
+
+    .container.vertical-tabs {
+        padding: 0;
+    }
+
+    /************************************************************** DETAIL *******************************/
+    .subgallery img {
+        width: 50% !important;
+    }
+
+    .disinfo {
+        padding-left: 0;
+    }
+
+    .disinfo p {
+        max-width: 541px;
+    }
+
+    section.infosection {
+        padding: 140px 0;
+    }
+}
+
+@media only screen and (max-width: 1429px) {
+    section.herohome:after {
+        left: 0;
+    }
+
+    .homeheroinfo {
+        left: 25px;
+    }
+
+    .homeheroinfo h1 {
+        font-size: 70px;
+        margin: 0;
+    }
+
+    .homeheroinfo p {
+        max-width: 519px;
+    }
+
+    .storageinfo:after {
+        font-size: 70px;
+    }
+
+    .storageinfo h2 {
+        font-size: 50px;
+        line-height: 80px;
+    }
+
+    ul.storagesubinfo li {
+        font-size: 15px;
+        margin-bottom: 17px;
+    }
+
+    .storageinfo:after {
+        font-size: 60px;
+        top: -59px;
+    }
+
+    .whitebtn {
+        margin-top: 0;
+    }
+
+    .whitebtn a {
+        width: 165px;
+        height: 40px;
+    }
+
+    .whitebtn a:after {
+        width: 165px;
+        height: 40px;
+    }
+
+    p.text {
+        max-width: 527px;
+        font-size: 15px;
+    }
+
+    .contactinfo {
+        padding: 30px 50px !important;
+    }
+
+    .contactinfoinner {
+        padding: 40px;
+        width: 523px;
+    }
+
+    input.contactinfo {
+        width: 441px;
+    }
+
+    .contactimg {
+        right: -36px;
+        position: absolute;
+    }
+
+    .whitebtn a {
+        font-size: 18px;
+    }
+
+    /**************************  MEMBERSHIP ***********************/
+    .infoheromember:after {
+        font-size: 106px;
+        left: -404px;
+    }
+
+    /************************************** STORAGES ***************************************/
+    .storagetitle p {
+        font-size: 28px;
+    }
+
+    section.storageoption.collection .owl-nav {
+        top: auto;
+        bottom: -40px;
+    }
+
+    .container .vertical-tabs .col-md-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    div#v-pills-tab {
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content: space-evenly;
+        margin-bottom: 30px;
+        transform: all;
+    }
+
+    div#v-pills-tab .nav-link.active:after {
+        transform: rotate(90deg);
+        left: 50%;
+        top: auto;
+        bottom: -25px;
+    }
+
+    .container.vertical-tabs .col-md-9 {
+        max-width: 100%;
+        /* width: 100%; */
+        flex: 0 0 100%;
+    }
+
+    video {
+        height: 100vh;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    .guideinfo {
+        padding: 0;
+    }
+
+    .guideinfo h1 {
+        font-size: 87px;
+    }
+
+    .guideinfo p {
+        max-width: 440px;
+    }
+
+    /*****************************  RANATL *********************************/
+    section.eventsec {
+        height: 750px;
+    }
+
+    .eventrental h1 {
+        font-size: 90px;
+    }
+
+    .eventrental p {
+        max-width: 555px;
+    }
+
+    .collectioninfo {
+        padding: 33px;
+    }
+
+    section.eventsec img {
+        width: 55%;
+    }
+
+    .eventrental {
+        padding: 0;
+    }
+
+    .eventrental h1 {
+        font-size: 80px;
+    }
+
+    .eventrental p {
+        max-width: 504px;
+    }
+
+    section.ourevent {
+        padding: 100px 0;
+    }
+
+    section.ourclientsec .owl-nav {
+        margin-top: 50px !important;
+    }
+
+    section.ourclientsec .owl-nav button {
+        margin-right: 43px !important;
+    }
+
+
+
+
+    /************************************* MEMBER EVENT **********************************/
+    .herosubimg img {
+        width: 42%;
+    }
+
+    .heroimages img {
+        height: 322px;
+    }
+
+    .storagetitle h1 {
+        font-size: 82px;
+        line-height: 102px;
+        margin-bottom: 25px;
+    }
+
+    .storagetitle h1 {
+        font-size: 61px;
+    }
+
+    .heroimages img {
+        height: 256px;
+    }
+
+    /*********************************** INQUIRE **************************************/
+    .contactdetail p {
+        font-size: 17px;
+    }
+
+    /****************************** DETAIL ************************/
+    #display .owl-dots,
+    #displaysecond .owl-dots {
+        bottom: 21px;
+        right: 0;
+    }
+
+    ul.averagedetail:after {
+        display: none;
+    }
+
+    ul.galleryimg:after {
+        display: none;
+    }
+
+    .subgallery img {
+        width: 50% !important;
+    }
+
+    ul.modelfeature {
+        padding: 30px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .storageinfo h2 {
+        font-size: 45px;
+    }
+
+    .storieroadtitle h2 {
+        font-size: 50px;
+    }
+
+
+
+    .homeheroinfo h1 {
+        font-size: 62px;
+    }
+
+    p.text {
+        max-width: 461px;
+    }
+
+
+
+    p.text {
+        max-width: 427px;
+    }
+
+    .storageinfo {
+        padding-left: 30px;
+    }
+
+    .contactinfoinner {
+        WIDTH: 408px;
+    }
+
+    input.contactinfo {
+        width: 331px;
+        padding-left: 31px !important;
+    }
+
+    section.herohome:after {
+        content: "";
+        position: absolute;
+        left: -140px;
+        top: -5px;
+        height: 100%;
+        background: url(../images/herocarmain.png);
+        width: 115%;
+    }
+
+    nav.navbar.navbar-expand-lg a.navbar-brand {
+        width: 193px;
+    }
+
+    ul.navbar-nav.m-auto li {
+        padding: 15px 15px;
+    }
+
+    footer {
+        height: 219px;
+    }
+
+    .storageinfo h2 {
+        font-size: 45px;
+    }
+
+    .storieroadtitle h2 {
+        font-size: 50px;
+    }
+
+    .homeheroinfo {
+        /* padding: 12px; */
+    }
+
+    .storageimg img {
+        width: 100%;
+    }
+
+    .homeheroinfo h1 {
+        font-size: 62px;
+    }
+
+    p.text {
+        max-width: 461px;
+    }
+
+    .storageimg img {
+        height: 500px;
+    }
+
+    p.text {
+        max-width: 427px;
+    }
+
+    .storageinfo {
+        padding-left: 30px;
+    }
+
+    .contactinfoinner {
+        WIDTH: 408px;
+    }
+
+    input.contactinfo {
+        width: 331px;
+        padding-left: 31px !important;
+    }
+
+    section.herohome:after {
+        content: "";
+        position: absolute;
+        left: -140px;
+        top: 0;
+        height: 100%;
+        background: url(../images/herocarmain.png);
+        width: 115%;
+    }
+
+    nav.navbar.navbar-expand-lg a.navbar-brand {
+        width: 193px;
+    }
+
+    ul.navbar-nav.m-auto li {
+        padding: 15px 15px;
+    }
+
+    /****************************** MEMBERSHIP *****************************/
+    section.socialmem {
+        /* padding: 10px !important; */
+    }
+
+    .infoheromember:after {
+        font-size: 85px;
+        left: -335px;
+    }
+
+    section.membershiphero:after {
+        left: 60px;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 46px;
+        margin-bottom: 31px;
+    }
+
+    /************************************** STORAGES ***************************************/
+    .image-gallery main.primary {
+        width: 100%;
+    }
+
+    .thumbnail-image {
+        margin: 2px 2px;
+    }
+
+    .storageproductdetail {
+        padding-left: 51px;
+    }
+
+    .storagetitle h1 {
+        font-size: 91px;
+        line-height: 131px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    .guideinfo h1 {
+        font-size: 70px;
+    }
+
+    .guideinfo p {
+        max-width: 331px;
+    }
+
+    .carlistinfo {
+        padding: 0 11px;
+    }
+
+    .viewdetail {
+        margin-right: 10px;
+    }
+
+    /*****************************  RANATL *********************************/
+    section.eventsec {
+        height: 760px;
+    }
+
+    section.eventsec img {
+        width: 60%;
+    }
+
+    section.eventsec img {
+        height: 850px;
+    }
+
+    .eventrental h1 {
+        font-size: 60px;
+        margin: 0;
+    }
+
+    .eventrental p {
+        max-width: 381px;
+    }
+
+    section.ourevent {
+        padding: 80px 0;
+    }
+
+    .oureventtitle h2 {
+        font-size: 80px;
+    }
+
+    div#event {
+        margin-top: 20px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 80px;
+    }
+
+    /************************************* MEMBER EVENT **********************************/
+    section.memevent {
+        height: 854px;
+    }
+
+    .heroimages img {
+        height: auto;
+    }
+
+    .storagetitle h1 {
+        font-size: 82px;
+        line-height: 115px;
+    }
+
+    .storagetitle h1 {
+        font-size: 57px;
+        margin-bottom: 20px;
+    }
+
+    ul.brand li {
+        margin-bottom: 71px;
+    }
+
+    /********************************** INQUIRE ****************************************/
+    header.mainheader {
+        padding: 0px !important;
+    }
+
+    .contactdetail p {
+        font-size: 17px;
+    }
+
+    .contactdetail p {
+        font-size: 15px;
+    }
+
+    /********************************** DETAIL ***********************************/
+    .infotitle h2 {
+        font-size: 34px;
+    }
+
+    .disinfo {
+        padding-left: 0;
+        margin-top: 60px;
+    }
+
+    #display .owl-dots,
+    #displaysecond .owl-dots {
+        bottom: 10px;
+    }
+
+    .gamedetail {
+        padding-left: 50px;
+        max-width: 468px !important;
+    }
+
+    ul.modelfeature {
+        padding: 15px;
+    }
+
+    ul.modelfeature li span {
+        font-size: 16px;
+    }
+
+    .configtitle h2 {
+        font-size: 52px;
+    }
+
+    /****************************** MEMBERSHIP *****************************/
+    @media only screen and (max-width: 1429px) {
+
+
+        .homeheroinfo {
+            left: 40px;
+            /* padding: 25px; */
+        }
+
+        .storagetitle h1 {
+            font-size: 70px;
+        }
+
+
+
+
+
+    }
+
+
+    @media only screen and (max-width: 991px) {
+
+        ul.dropdown_menu.dropdown_menu-4 li a {
+            color: black !important;
+        }
+
+        /************************************ MEMBERSHIP SECTION *****************************/
+        section.membershiphero {
+            height: 1052px;
+        }
+
+        .meminfo {
+            margin-top: -67px;
+        }
+
+        .infoheromember:after {
+            top: -90px;
+            font-size: 95px;
+            left: -368px;
+        }
+
+        section.socialmem.bgblack .col-lg-6:first-child {
+            order: 1;
+        }
+
+        .socialimg img {
+            height: 452px;
+            padding-bottom: 19px;
+        }
+
+        .socialimg {
+            text-align: center;
+        }
+
+        section.socialmem.bgblack {
+            /* padding: 60px 0 60px; */
+        }
+
+        .socialmeminfo {
+            margin: auto;
+        }
+
+        .row.align-items-center.mem2 {
+            margin: 0;
+        }
+
+        section.socialmem {
+            padding-left: 0;
+        }
+
+        section.contact {
+            padding-bottom: 378px;
+        }
+
+        .contactimg {
+            right: -49px;
+        }
+
+        .socialmeminfo {
+            padding-top: 20px;
+        }
+
+        /************************************** STORAGES ***************************************/
+        .storageimg video {
+            left: 0;
+        }
+
+        .storagemain {
+            /* padding-top: 0; */
+        }
+
+        .storagetitle h1 {
+            font-size: 61px !important;
+        }
+
+        .storagetitle {
+            text-align: center;
+        }
+
+        .storageoptiontitle h2 {
+            font-size: 47px;
+        }
+
+        section.storageoption {
+            padding-top: 50px;
+            padding-bottom: 80px;
+        }
+
+        .image-gallery {
+            width: 100%;
+            margin-bottom: 40px;
+        }
+
+        main.primary {
+            margin-bottom: 30px;
+        }
+
+        .storageproductdetail {
+            padding: 0;
+        }
+
+        section.storageoption.collection .owl-nav {
+            /* bottom: 0; */
+            /* bottom: auto; */
+            top: auto;
+        }
+
+        /***************************** CAR GUIDE **************************/
+        section.guidehero {
+            max-height: 850px;
+            min-height: 850px;
+            height: 850px;
+        }
+
+        section.guidehero:after {
+            width: 50%;
+        }
+
+        .guideinfo {
+            text-align: center;
+            /* margin-right: 0; */
+        }
+
+        .guideinfo h1 {
+            font-size: 81px;
+            margin: 0;
+        }
+
+        .guideinfo {
+            max-width: 562px;
+            margin: auto;
+            margin-bottom: 40px;
+        }
+
+        #guide .owl-nav {
+            top: auto;
+            left: 50%;
+            right: auto;
+            transform: translate(-50%);
+            bottom: -30px;
+        }
+
+
+        .listcarinfo {
+            max-width: 232px;
+        }
+
+        .guideinfo p {
+            max-width: 600px;
+        }
+
+        .guideinfo h1 {
+            font-size: 64px;
+        }
+
+        .topratedtitle {
+            margin-bottom: 10px;
+        }
+
+        .topratedimg {
+            margin-bottom: 21px;
+        }
+
+        section.toprated {
+            padding: 90px 0;
+        }
+
+        /*****************************  RANATL *********************************/
+        .oureventtitle h2 br {
+            display: none;
+        }
+
+        section.eventsec img {
+            filter: blur(3px);
+        }
+
+        section.eventsec img.playbtn {
+            filter: none;
+        }
+
+        .oureventtitle h2 {
+            font-size: 58px;
+            line-height: 100px;
+            margin: 0;
+        }
+
+        section.eventsec img {
+            width: 100%;
+            z-index: -999999;
+        }
+
+        .eventrental h1 {
+            color: white;
+        }
+
+        .eventrental p {
+            color: white;
+        }
+
+        .oureventtitle {
+            /* margin-bottom: 20px; */
+        }
+
+        section.ourevent {
+            padding: 61px 0;
+        }
+
+        /************************************* MEMBER EVENT **********************************/
+
+        section.memevent .col-lg-6:first-child {
+            order: 1;
+        }
+
+        section.memevent {
+            /* height: 1312px; */
+        }
+
+        .heroimages {
+            padding-top: 81px;
+            text-align: center;
+        }
+
+        .heroimages img {
+            height: 220px;
+            width: auto;
+        }
+
+        .storagetitle {
+            margin: auto;
+        }
+
+        .storagetitle h1 {
+            font-size: 54px !important;
+            text-align: center !important;
+            margin: 0;
+        }
+
+        section.moreaboutevent {
+            padding: 60px 0;
+        }
+
+        .socialmeminfo h2 {
+            font-size: 47px;
+            line-height: 70px;
+        }
+
+        section.moreaboutevent .socialmeminfo h2 br {
+            display: none;
+        }
+
+        .socialmeminfo {
+            padding-top: 20px;
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+
+        section.ourevent.moreeventheld .owl-nav {
+            top: auto !important;
+            bottom: -34px !important;
+        }
+
+        section.ourevent.moreeventheld {
+            padding-bottom: 91px;
+        }
+
+        section.ourevent.moreeventheld h2 {
+            font-size: 51px !important;
+        }
+
+        .eventtype h3 {
+            font-size: 23px;
+        }
+
+        .eventtype p {
+            font-size: 14px;
+        }
+
+        /*********************************************** INQUIRE **************************************************/
+        .contactdetail p {
+            font-size: 13px;
+        }
+
+        .contactdetail:after {
+            left: 59%;
+        }
+
+        /********************************************************* DETAIL ***************************************/
+        .configtitle {
+            margin-bottom: 25px;
+        }
+
+        ul.modelfeature:after {
+            display: none;
+        }
+
+        .gallerytitle h2 {
+            font-size: 50px;
+        }
+
+        .gallerytitle {
+            margin: 0;
+        }
+
+        #gallery .owl-nav {
+            top: -49px;
+        }
+
+        section.detailhero ul.heroinfo {
+            position: relative;
+            top: 0;
+            transform: translateY(0);
+        }
+
+        section.detailhero {
+            height: auto;
+            padding: 100px 0;
+        }
+
+        section.guidehero {
+            height: 767px;
+            min-height: 767px;
+            max-height: 767px;
+        }
+
+        ul.speed {
+            margin-top: 60px;
+        }
+
+        p.speed {
+            font-size: 47px;
+        }
+
+        .topratedtitle h2 {
+            font-size: 45px;
+        }
+
+        .listtitle h2 {
+            font-size: 41px;
+        }
+
+        /************************* TOOGERBAR *****************************/
+        .menu__bar {
+            display: block;
+            position: absolute;
+            left: 0;
+            width: 35px;
+            height: 2px;
+            transition: top 0.4s ease-out, transform 0.4s ease-out;
+            background-color: #222;
+        }
+
+        .menu__bar:nth-child(1) {
+            top: 0;
+        }
+
+        .menu__bar:nth-child(2) {
+            top: 12px;
+        }
+
+        .menu__bar:nth-child(3) {
+            top: 24px;
+        }
+
+        .mainheader .menu__bar {
+            background: #ffffff;
+        }
+
+        .mainheader button.navbar-toggler {
+            padding: 0;
+            z-index: 99;
+        }
+
+        span.navbar-toggler-icon {
+            /* margin-top: 12px; */
+        }
+
+        button.navbar-toggler {
+            display: block;
+            width: 35px;
+            height: 35px;
+        }
+
+        .mainheader .toggle-menu.toggle-menu--clicked .menu__bar {
+            background: black;
+        }
+
+        .toggle-menu--clicked .menu__bar:nth-child(1) {
+            top: 11px;
+            transform: rotate(45deg);
+        }
+
+        .toggle-menu.toggle-menu--clicked .menu__bar:nth-child(2) {
+            transform: translateX(100%) scale(0);
+        }
+
+        .mainheader button.navbar-toggle {
+            padding: 0;
+            right: 17px;
+            z-index: 99;
+        }
+
+        .toggle-menu--clicked .menu__bar:nth-child(3) {
+            top: 10px;
+            transform: rotate(-45deg);
+        }
+
+        span.navbar-toggler-icon {
+            /* padding-top: 15px; */
+        }
+
+        .toggle-menu.toggle-menu--clicked {
+            margin-top: 10px;
+        }
+
+        button.navbar-toggler.collapsed {
+            display: flex;
+        }
+
+        header.mainheader {
+            padding: 0 !important;
+        }
+
+        .toggle-menu {
+            margin: 10px 0 !important;
+        }
+
+        /**********  Responsive Menu Bootstrap **********/
+
+        /**  menu  **/
+        .toggler {
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            padding: 0;
+            border-radius: 5px;
+            background-color: #fff;
+            border: 1px solid #7bc00b;
+            text-align: center;
+            z-index: 99;
+            display: block;
+            transition: all 0.5s;
+            margin-left: 20px;
+        }
+
+        .show-menu .toggler {
+            width: 40px;
+            height: 40px;
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            border: none;
+        }
+
+        .toggler span {
+            position: relative;
+            width: 60%;
+            height: 2px;
+            background-color: #7bc00b;
+            display: inline-block;
+            vertical-align: top;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            -o-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+
+        .toggler span::before,
+        .toggler span::after {
+            position: absolute;
+            content: "";
+            width: 100%;
+            height: 2px;
+            background-color: #7bc00b;
+            right: 0;
+            transition: all 0.5s;
+            animation: openCloseByeSpan 300ms linear forwards;
+        }
+
+        .toggler span::before {
+            top: -6px;
+        }
+
+        .toggler span::after {
+            top: 6px;
+        }
+
+        .show-menu .toggler span::before,
+        .show-menu .toggler span::after {
+            left: 0;
+            right: 0;
+            margin: auto;
+            transform: rotate(45deg);
+            top: -5px;
+        }
+
+        .show-menu .toggler span::after {
+            transform: rotate(-45deg);
+        }
+
+        .show-menu .toggler span {
+            height: 0;
+        }
+
+        #navbarNav {
+            background: #ffffff url(../images/banner-img.png) no-repeat bottom right / auto 170px;
+            box-shadow: 0 0px 0 10px #fff inset, 0 0 0 11px #7bc00b inset;
+            padding: 60px 20px 15px;
+            position: fixed;
+            top: 0;
+            right: 0;
+            display: block !important;
+            width: 100% !important;
+            text-align: center;
+            bottom: 0;
+            -webkit-transition: all 0.5s ease 0s;
+            -moz-transition: all 0.5s ease 0s;
+            -ms-transition: all 0.5s ease 0s;
+            -o-transition: all 0.5s ease 0s;
+            transition: all 0.5s ease 0s;
+            -webkit-transform: translateX(110%);
+            -moz-transform: translateX(110%);
+            -ms-transform: translateX(110%);
+            -o-transform: translateX(110%);
+            transform: translateX(110%);
+            height: auto !important;
+            overflow: auto;
+        }
+
+        .show-menu #navbarNav {
+            -webkit-transform: translateX(0%);
+            -moz-transform: translateX(0%);
+            -ms-transform: translateX(0%);
+            -o-transform: translateX(0%);
+            transform: translateX(0%);
+        }
+
+        .show-menu .navbar-toggler {
+            position: fixed;
+            z-index: 5;
+            right: 15px;
+            border-radius: 5px;
+            padding: 2px;
+            top: 15px;
+        }
+
+        /* .show-menu .navbar-toggler-icon {
+            background-image: url("../images/close.svg");
+            background-size: 14px auto;
+        } */
+
+        .navbar-nav .nav-item {
+            margin-left: 0;
+        }
+
+        .navbar .navbar-nav .nav-link {
+            font-size: 18px;
+            padding: 10px 10px;
+            margin: 0;
+            line-height: 1.2;
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #7bc00b;
+        }
+
+        .navbar-nav .active .nav-link {
+            color: #7bc00b;
+            font-weight: bold;
+        }
+
+        .navbar-nav .nav-item .dropdown-item {
+            text-align: center;
+            padding: 10px 10px;
+        }
+
+        .navbar-nav .dropdown-menu {
+            margin: 0;
+            padding: 0;
+            border-radius: 0;
+        }
+
+        /* Common Css must add */
+        .navbar-toggler svg {
+            height: 40px;
+            position: absolute;
+            width: 40px;
+            cursor: pointer;
+            /*   border: 1px solid black; */
+            background-color: #fff;
+        }
+
+        .plate {
+            height: 40px;
+            width: 40px;
+        }
+
+        .burger {
+            filter: url(#gooeyness);
+        }
+
+        .x {
+            transform: scale(0);
+            transition: transform 400ms;
+        }
+
+        .line {
+            fill: none;
+            stroke: #000000;
+            stroke-width: 6px;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            transform-origin: 50%;
+            transition: stroke-dasharray 500ms 200ms, stroke-dashoffset 500ms 200ms,
+                transform 500ms 200ms;
+        }
+
+        .x .line {
+            stroke-width: 5.5px;
+        }
+
+        /* Common Css must add end */
+
+        /* Forth Menu Css */
+        .plate4 .x {
+            transition: transform 400ms;
+        }
+
+        .plate4 .line {
+            transform-origin: 50%;
+            transition: transform 400ms 100ms;
+        }
+
+        .active.plate4 .line {
+            transition: transform 400ms;
+        }
+
+        .active.plate4 .line1 {
+            transform: translateX(18px) translateY(-3px) rotate(-45deg) scale(0.7);
+        }
+
+        .active.plate4 .line2 {
+            transform: translateX(-18px) translateY(-3px) rotate(45deg) scale(0.7);
+        }
+
+        .active.plate4 .line3 {
+            transform: translateY(0px) rotate(45deg) scale(0.7);
+        }
+
+        .active.plate4 .line4 {
+            transform: translateY(0px) rotate(-45deg) scale(0.7);
+        }
+
+        .active.plate4 .line5 {
+            transform: translateX(18px) translateY(3px) rotate(45deg) scale(0.7);
+        }
+
+        .active.plate4 .line6 {
+            transform: translateX(-18px) translateY(3px) rotate(-45deg) scale(0.7);
+        }
+
+        .active.plate4 .x {
+            transition: transform 400ms 100ms;
+            transform: scale(1);
+        }
+
+        button.navbar-toggler {
+            padding: 0;
+            position: absolute;
+            top: 50%;
+            right: 30px;
+            transform: translateY(-50%);
+            width: 40px;
+            height: 40px;
+            z-index: 99999;
+        }
+
+        span.navbar-toggler-icon {
+            width: 40px;
+            height: 40px;
+        }
+
+        .navbar-toggler svg {
+            left: 0;
+            top: 0;
+        }
+
+        .show-menu .navbar-toggler {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 9999;
+            right: 30px;
+        }
+
+        .navbar-toggler:focus {
+            box-shadow: none;
+        }
+
+
+        /**  Menu  **/
+
+        /**********  Responsive Menu  **********/
+
+
+        /************* section responsive css ****************************/
+
+        section.herohome:after {
+            width: 118%;
+        }
+
+        .homeheroinfo h1 {
+            font-size: 50px;
+            line-height: 120px;
+        }
+
+        div#navbarNav ul li a {
+            color: black;
+        }
+
+        .menu-container ul.menu li p {
+            color: black !important;
+        }
+
+
+
+        .inquerybtn {
+            margin-top: 30px;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+        }
+
+        a.btninquery {
+            background: black;
+            color: white;
+        }
+
+
+        p.text {
+            max-width: 351px;
+        }
+
+        .storage .col-lg-6:first-child {
+            order: 1;
+        }
+
+        .storageinfo {
+            padding: 0 84px 81px;
+        }
+
+        .storageinfo:after {
+            top: -70px;
+            font-size: 80px;
+        }
+
+        .storageinfo h2 {
+            font-size: 60px;
+            margin-bottom: 27px;
+        }
+
+        p.text {
+            max-width: 560px;
+        }
+
+        .whitebtn a {
+            width: 240px;
+            height: 55px;
+        }
+
+        .whitebtn a:after {
+            width: 240px;
+            height: 55px;
+        }
+
+        .contactinfoinner {
+            width: 100%;
+        }
+
+        input.contactinfo {
+            width: 100%;
+        }
+
+        section#section4 {
+            padding-bottom: 350px;
+        }
+
+        .contactimg {
+            bottom: -1150px;
+        }
+
+        .contacttitleinfo {
+            background: #f9f9f9;
+            padding: 31px;
+            margin: -43px;
+        }
+
+        .contactinfo {
+            background: transparent;
+        }
+
+        .contactinfoinner {
+            margin-top: 70px;
+            padding: 40px 0;
+        }
+
+        #section03 .col-lg-6:first-child {
+            order: 0;
+        }
+
+        .whitebtn {
+            margin-top: 40px;
+        }
+
+        .storieroadtitle {
+            left: 12%;
+        }
+
+        section.vihiclestorage {
+            /* padding: 0 0 50px; */
+        }
+
+
+
+        .contactinfo .col-lg-6:first-child {
+            order: 1;
+        }
+
+        /************************************* detail *********************************/
+        ul.infocar {
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        ul.infocar li {
+            /* width: 100%; */
+            width: 50%;
+            margin-bottom: 21px;
+        }
+
+        ul.infocar li img {
+            margin-left: 0 !important;
+        }
+
+        section.gamesec .col-lg-6 {
+            width: 50%;
+            max-width: 50%;
+        }
+
+        .gamedetail h4 {
+            font-size: 25px;
+            margin: 0;
+        }
+
+        .gamedetail p {
+            font-size: 16px;
+            max-width: 336px;
+        }
+
+        .gamedetail {
+            padding-left: 31px;
+        }
+
+        .pl-5,
+        .px-5 {
+            padding-left: 21px !important;
+        }
+
+        ul.averagedetail li h2 {
+            font-size: 52px;
+            margin: 0;
+        }
+
+        ul.averagedetail li p {
+            font-size: 18px;
+        }
+
+        ul.modelfeature li {
+            width: 28%;
+        }
+
+        ul.modelfeature {
+            margin-top: 50px;
+        }
+
+        .configtitle h2 {
+            font-size: 47px;
+        }
+    }
+
+
+
+
+    @media only screen and (max-width: 767px) {
+        .infoheromember h1 {
+            font-size: 60px;
+            line-height: 75px;
+        }
+
+        .infoheromember:after {
+            top: -88px;
+        }
+
+        .storageinfo h2 {
+            font-size: 50px;
+            margin-bottom: 30px;
+        }
+
+        .storageinfo.hostevent:after {
+            font-size: 71px;
+            top: -66px;
+        }
+
+        section.storieroad:after {
+            width: 330px;
+            height: 116px;
+        }
+
+        div#road {
+            padding: 109px 0px;
+        }
+
+
+
+        p.text {
+            max-width: 451px;
+        }
+
+        .storageimg img {
+            width: 100%;
+            height: 440px;
+        }
+
+        .storieroadtitle h2 {
+            font-size: 41px;
+            /* padding-top: 6px; */
+        }
+
+        .storieroadtitle {
+            left: 39px;
+        }
+
+        #road .owl-nav {
+            left: 0;
+        }
+
+        .slider-counter {
+            left: 89px;
+        }
+
+        .storageinfo {
+            padding: 0 50px 60px;
+        }
+
+        section.storieroad:after {
+            left: 98px;
+        }
+
+
+        section.herohome:after {
+            width: 715px;
+        }
+
+        section#section4 {
+            padding-bottom: 250px;
+        }
+
+        .contactimg {
+            bottom: -1039px;
+        }
+
+        .contactinfoinner {
+            padding: 0 10px;
+        }
+
+        .contactinfo {
+            padding: 0 !important;
+        }
+
+        .contacttitleinfo {
+            max-width: 100%;
+            margin: auto;
+        }
+
+        /******************************************* MEMBERSHIP *****************************************************/
+        section.contact {
+            padding-bottom: 387px;
+        }
+
+        .socialimg img {
+            height: 420px;
+        }
+
+        /************************************** STORAGES ***************************************/
+        .storagetitle {
+            text-align: center;
+        }
+
+        .storagetitle h1 {
+            text-align: center !important;
+            display: flex;
+            justify-content: center !important;
+        }
+
+        .storagetitle h1 {
+            font-size: 42px !important;
+            margin: 0;
+            text-align: center !important;
+        }
+
+        .storagemain {
+            padding-left: 61px;
+        }
+
+        .storagetitle {
+            text-align: center;
+        }
+
+        .storagetitle p {
+            font-size: 24px;
+            letter-spacing: 1px;
+        }
+
+        .storageoptiontitle h2 {
+            font-size: 39px;
+        }
+
+        section.storageoption section {
+            padding-top: 25px;
+        }
+
+        section.storageimg {
+            height: 800px;
+        }
+
+        section.storageoption.collection .owl-nav {
+            right: 0;
+            justify-content: space-around;
+            bottom: -29px;
+        }
+
+        /***************************** CAR GUIDE **************************/
+        ul.listinfo li {
+            flex-wrap: wrap;
+        }
+
+        .viewdetail {
+            margin-top: 30px;
+        }
+
+        .listcarimg {
+            /* margin-bottom: 60px; */
+        }
+
+        .listcarinfo {
+            max-width: 211px;
+        }
+
+        .listcarinfo h5 {
+            font-size: 21px;
+        }
+
+        #guide .owl-nav {
+            width: 100%;
+            max-width: 100% !important;
+            /* text-align: center; */
+        }
+
+        .guideinfo h1 {
+            font-size: 62px;
+        }
+
+        .topratedtitle h2 {
+            font-size: 50px;
+        }
+
+        .listtitle h2 {
+            font-size: 50px;
+        }
+
+        /*****************************  RANATL *********************************/
+        .contacttitleinfo h2 {
+            font-size: 50px;
+        }
+
+        section.eventsec {
+            height: 700px;
+        }
+
+        .oureventtitle h2 {
+            font-size: 65px;
+            line-height: 90px;
+        }
+
+        .oureventtitle h2 {
+            line-height: 90px;
+        }
+
+        /************************************* MEMBER EVENT **********************************/
+        .storagetitle h1 {
+            FONT-SIZE: 40px;
+        }
+
+        .socialmeminfo {
+            /* padding-left: 30px; */
+            /* padding-left: 30px; */
+        }
+
+        .oureventtitle h2 {
+            font-size: 50px !important;
+        }
+
+        .socialmeminfo h2 {
+            font-size: 44px;
+            margin-bottom: 16px;
+        }
+
+        section.ourevent.moreeventheld h2 {
+            font-size: 45px !important;
+            margin: 0;
+        }
+
+        .oureventtitle {
+            /* margin: 0; */
+        }
+
+        /******************************** inquire *****************************************/
+
+        .contactdetail {
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .contactdetail p {
+            font-size: 15px;
+            text-align: center !important;
+        }
+
+        .contactdetail:after {
+            left: 63%;
+        }
+
+        /*********************************** DETAIL **********************************/
+        ul.galleryimg {
+            display: block;
+        }
+
+        section.average {
+            background-position: center;
+        }
+
+        ul.heroinfo li ul {
+            padding: 0;
+        }
+
+        ul.heroinfo li ul li span {
+            margin: 0 42px;
+        }
+
+        .infotitle h2 {
+            margin-bottom: 30px !important;
+        }
+
+        .gamedetail h4 {
+            font-size: 20px;
+            line-height: 30px;
+        }
+
+        .gamedetail p {
+            font-size: 14px;
+            line-height: 24px;
+        }
+
+        section.\33 60sec {
+            height: 790px;
+        }
+
+        .configtitle h2 {
+            font-size: 40px;
+            font-size: 36px !important;
+        }
+
+        .configtitle {
+            margin-bottom: 35px;
+        }
+
+        ul.modelfeature li {
+            width: 50%;
+        }
+
+        ul.averagedetail li h2 {
+            font-size: 45px;
+        }
+
+        ul.averagedetail li p {
+            font-size: 17px;
+        }
+
+        .gallerytitle h2 {
+            font-size: 50px;
+        }
+
+        ul.modelfeature:after {
+            display: none;
+        }
+    }
+
+    @media only screen and (max-width: 575px) {
+        .toggle-menu {
+            margin: 11px 0 !important;
+        }
+
+        .homeheroinfo {
+            /* padding-left: 20px; */
+        }
+
+        .storageimg img {
+            height: 400px;
+        }
+
+        section.storieroad:after {
+            left: 72px;
+            width: 330px;
+            height: 130px;
+        }
+
+        .contactinfoinner {
+            width: 100%;
+            padding-right: 0;
+        }
+
+        section#section4 {
+            padding-bottom: 340px;
+        }
+
+        .contactimg {
+            bottom: -993px;
+            right: -50px;
+        }
+
+        section#section2 .storage h2 {
+            font-size: 50px;
+        }
+
+        .storageinfo h2 {
+            font-size: 55px;
+        }
+
+        .owl-item .item {
+            /* margin: 10px 10px; */
+        }
+
+        .contacttitleinfo {
+            padding: 18px !important;
+        }
+
+        .storageinfo:after {
+            font-size: 59px;
+        }
+
+
+        /******************************** MEMBERSHIP ********************************/
+        .infoheromember h1 {
+            font-size: 54px;
+            line-height: 67px;
+            margin-bottom: 50px;
+        }
+
+        .infoheromember:after {
+            font-size: 85px;
+            left: -338px;
+            top: -90px;
+        }
+
+        .meminfotext {
+            padding-top: 31px;
+        }
+
+        ul.memdetail p {
+            margin: 0;
+        }
+
+        .socialimg img {
+            height: 351px;
+        }
+
+        .socialmeminfo h2 {
+            font-size: 40px;
+            margin-bottom: 14px;
+        }
+
+        section.socialmem {
+            padding-bottom: 30px;
+        }
+
+        .contacttitleinfo h2 {
+            font-size: 52px;
+        }
+
+        section.contact {
+            padding-bottom: 330px;
+        }
+
+        section.membershiphero:after {
+            height: 140px;
+            width: 359px;
+            left: 56px;
+        }
+
+        .memberheroinfo {
+            padding: 0;
+        }
+
+        /************************************** STORAGES ***************************************/
+        .container .vertical-tabs .col-md-3::-webkit-scrollbar {
+            display: none;
+        }
+
+        .storagetitle h1 {
+            font-size: 36px !important;
+            line-height: 110px;
+        }
+
+        .storagemain {
+            padding-left: -21px;
+        }
+
+        .storagetitle p {
+            font-size: 21px;
+        }
+
+        .storageoptiontitle h2 {
+            font-size: 33px;
+        }
+
+        div#v-pills-tab {
+            flex-wrap: nowrap;
+            min-width: 478px;
+        }
+
+        .container .vertical-tabs .col-md-3 {
+            overflow: auto;
+        }
+
+        div#v-pills-tab .nav-link.active,
+        .nav-pills .show>.nav-linkq {
+            font-size: 22px;
+        }
+
+        .thumbnail-image {
+            width: 80px;
+            height: 80px;
+        }
+
+        section.storageimg {
+            height: 800px;
+            padding: 0 0;
+        }
+
+        section.storageimg video {
+            height: 800px;
+        }
+
+        a.storageimgpro .thumbnail-image:after {
+            width: 81px;
+        }
+
+        section.storageoption.collection .owl-nav {
+            bottom: -44px;
+        }
+
+
+        /***************************** CAR GUIDE **************************/
+        p.speed {
+            font-size: 47px;
+        }
+
+        .topratedtitle {
+            margin-bottom: 40px;
+        }
+
+        section.toprated {
+            padding: 100px 0px;
+        }
+
+        #guide .owl-nav {
+            bottom: -50px;
+        }
+
+        .listcarinfo {
+            margin-top: 31px;
+        }
+
+        .viewdetail {
+            margin-right: 0px;
+            margin-top: 130px;
+        }
+
+        section.listcar {
+            padding: 70px 0;
+        }
+
+        .listtitle {
+            margin-bottom: 60px;
+        }
+
+        header.memberheader.fixed {
+            padding: 0;
+        }
+
+        .guideinfo h1 {
+            font-size: 64px;
+        }
+
+        .topratedtitle h2 {
+            font-size: 50px;
+        }
+
+        .listtitle h2 {
+            font-size: 47px;
+        }
+
+        /*****************************  RANATL *********************************/
+        .eventservice .owl-nav {
+            margin-top: 52px;
+        }
+
+        div#event .owl-nav {
+            margin-top: 31px;
+        }
+
+        section.ourclientsec .owl-nav {
+            margin-top: 45px;
+        }
+
+        section.ourclientsec {
+            padding-bottom: 10px;
+        }
+
+        .contactinfoinner {
+            padding: 0 10px !important;
+        }
+
+        .eventrental p {
+            color: black;
+        }
+
+        section.eventsec {
+            height: 620px;
+        }
+
+        .eventrental h1 {
+            font-size: 55px;
+            line-height: 100px;
+            color: black;
+        }
+
+        .oureventtitle h2 {
+            font-size: 60px;
+            line-height: 85px;
+        }
+
+        section.ourclientsec {
+            padding-top: 0;
+        }
+
+
+        /************************************* MEMBER EVENT **********************************/
+        .heroimages img {
+            height: 212px;
+        }
+
+        .oureventtitle h2 {
+            font-size: 45px !important;
+        }
+
+        /********************************** INQUIRe ***********************************/
+        .contactdetail {
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+
+        .contactdetail p {
+            margin: 0 20px;
+            font-size: 14px;
+        }
+
+        .contactdetail:after {
+            left: 67%;
+        }
+
+        /************************************** DETAIL *****************************************/
+        section.gamesec .col-lg-6:nth-child(2) {
+            order: -1;
+        }
+
+        section.gamesec .col-lg-6 {
+            width: 100% !important;
+            max-width: 100%;
+        }
+
+        .gamedetail {
+            padding: 30px 41px;
+        }
+
+        .gamedetail h4 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .gamedetail p {
+            font-size: 19px;
+            max-width: 354px;
+        }
+
+        .configtitle h2 {
+            font-size: 39px;
+        }
+
+        ul.modelfeature li {
+            width: 34%;
+        }
+
+        ul.modelfeature:after {
+            display: none;
+        }
+
+        ul.galleryimg {
+            display: inline-block;
+            display: block;
+        }
+
+        section.infosection {
+            padding-left: 24px;
+            padding-right: 24px;
+        }
+
+        ul.heroinfo li h1 {
+            font-size: 35px;
+        }
+
+        .guideinfo p {
+            font-size: 16px;
+        }
+
+        p.speedname {
+            font-size: 18px;
+        }
+
+        /************************************************* DETAIL *************************************************/
+        ul.heroinfo {
+            display: block;
+        }
+
+        ul.heroinfo li ul {
+            margin-top: 40px !important;
+        }
+
+        ul.heroinfo li ul li span.opacity {
+            padding-left: 102px;
+        }
+
+        ul.heroinfo li ul li span {
+            margin: 0 !important;
+        }
+
+        ul.heroinfo li ul li:after {
+            left: 35%;
+        }
+
+        ul.heroinfo p {
+            font-size: 18px;
+        }
+
+        #display .owl-dots,
+        #displaysecond .owl-dots {
+            bottom: -20px;
+        }
+
+        .disinfo {
+            margin-top: 43px;
+        }
+
+        .disinfo h3 {
+            font-size: 27px;
+        }
+
+        .disinfo p {
+            font-size: 17px;
+        }
+
+        .gallerytitle h2 {
+            font-size: 47px;
+        }
+
+        section.average {
+            background-position: center;
+        }
+    }
+
+    @media only screen and (max-width: 479px) {
+        .storageinfo h2 {
+            font-size: 46px;
+        }
+
+        .contacttitleinfo h2 {
+            font-size: 50px;
+        }
+
+        p.title {
+            margin: 0;
+        }
+
+        .toggle-menu {
+            margin: 10px 0 !important;
+        }
+
+        p.text {
+            max-width: 280px;
+        }
+
+        section#section2 .storage h2 {
+            font-size: 40px;
+            margin: 0;
+        }
+
+        .storageinfo:after {
+            font-size: 51px;
+        }
+
+        .storieroadtitle h2 {
+            font-size: 30px;
+            padding-top: 11px;
+        }
+
+        section.storieroad:after {
+            left: 53px;
+            height: 100px;
+            width: 261px;
+        }
+
+        .contactinfoinner {
+            margin-top: 60px;
+            padding-left: 0;
+        }
+
+        .contactimg {
+            bottom: -921px;
+        }
+
+        section#section4 {
+            padding-bottom: 273px;
+        }
+
+        .storageimg img {
+            height: 301px;
+        }
+
+        section#section2 .storage .whitebtn a {
+            width: 145px;
+            font-size: 16px;
+            height: 41px;
+        }
+
+        .whitebtn a:after {
+            width: 145px;
+            height: 41px;
+        }
+
+        .storageinfo {
+            padding: 0 25px 50px 25px;
+        }
+
+        .whitebtn a:after {
+            width: 145px;
+            height: 41px;
+        }
+
+        .whitebtn a {
+            width: 145px;
+            font-size: 16px;
+            height: 41px;
+        }
+
+        /************************* MEMBERSHIP **********************************/
+        .infoheromember h1 {
+            font-size: 51px;
+        }
+
+        .memberheroinfo {
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        .infoheromember:after {
+            font-size: 75px;
+            left: -251px;
+        }
+
+        section.membershiphero:after {
+            height: 111px;
+            width: 281px;
+            left: 46px;
+        }
+
+        .socialimg img {
+            height: 315px;
+        }
+
+        .socialmeminfo h2 {
+            font-size: 30px;
+        }
+
+        section.contact {
+            padding-bottom: 281px;
+        }
+
+        /************************************** STORAGES ***************************************/
+        .container .vertical-tabs .col-md-3::-webkit-scrollbar {
+            display: none;
+        }
+
+        .storagetitle h1 {
+            font-size: 32px !important;
+            line-height: 90px;
+        }
+
+        .storagetitle p {
+            font-size: 16px;
+        }
+
+        .storageoptiontitle h2 {
+            font-size: 26px;
+        }
+
+        div#v-pills-tab {
+            min-width: 422px;
+        }
+
+        div#v-pills-tab .nav-link.active,
+        .nav-pills .show>.nav-linkq {
+            padding: 0;
+        }
+
+        div#v-pills-tab .nav-link {
+            padding: 0;
+        }
+
+        .thumbnail-image {
+            width: 74px;
+            height: 74px;
+        }
+
+        a.storageimgpro .thumbnail-image:after {
+            width: 68px;
+        }
+
+        .collectioninfo {
+            padding-bottom: 412px;
+        }
+
+        .storagemain {
+            padding-left: 28px;
+        }
+
+        /***************************** CAR GUIDE **************************/
+        .guideinfo h1 {
+            font-size: 60px;
+        }
+
+        .guideinfo p {
+            font-size: 17px;
+        }
+
+        p.speed {
+            font-size: 33px;
+        }
+
+        p.speedname {
+            FONT-SIZE: 19px;
+        }
+
+        .topratedtitle h2 {
+            font-size: 43px;
+        }
+
+        .topratedtitle {
+            margin-bottom: 20px;
+        }
+
+        section.toprated {
+            padding: 60px 0;
+        }
+
+        #guide .owl-nav {
+            /* bottom: -19px; */
+            display: flex;
+            text-align: center !important;
+            justify-content: center;
+        }
+
+        #guide .owl-nav {
+            bottom: -42px;
+        }
+
+        .listtitle h2 {
+            font-size: 42px;
+        }
+
+        .listcarimg {
+            margin: 0;
+        }
+
+        .listcarinfo {
+            max-width: 341px;
+        }
+
+        .viewdetail {
+            margin-top: 30px;
+            margin-left: 0;
+        }
+
+        .topratedimg {
+            margin-bottom: 30px;
+        }
+
+        section.toprated {
+            padding: 80px 0px;
+        }
+
+        /* .topratedinfo a img {
+            margin-right: -20px;
+        } */
+
+        /* .topratedinfo a img {
+            margin-right: -18px !important;
+        } */
+
+        section.guidehero {
+            min-height: 667px;
+            max-height: 667px;
+            height: 667px;
+        }
+
+        .owl-item .item {
+            margin: 30px 0px;
+            padding: 0;
+        }
+
+        .topratedinfo {
+            padding: 28px;
+        }
+
+        .topratedinfo a img {
+            margin-right: 0px !important;
+        }
+
+        section.toprated .row {
+            margin: 0;
+        }
+
+        .listtitle {
+            margin-bottom: 30px;
+        }
+
+        section.listcar {
+            padding: 30px 0 50px;
+            height: auto;
+        }
+
+        .carlistinfo {
+            padding: 0;
+        }
+
+        .guidemain {
+            top: 48%;
+        }
+
+        nav.navbar.navbar-expand-lg a.navbar-brand {
+            width: 188px;
+        }
+
+        /*****************************  RANATL *********************************/
+        .brandtitle h3 {
+            font-size: 48px;
+        }
+
+        section.eventsec {
+            height: 620px;
+        }
+
+        .eventrental h1 {
+            font-size: 50px;
+            line-height: 100px;
+        }
+
+        .oureventtitle h2 {
+            font-size: 60px;
+            line-height: 85px;
+        }
+
+        section.eventsec {
+            height: 580px;
+        }
+
+        .oureventtitle h2 {
+            font-size: 50px;
+            line-height: 70px;
+        }
+
+        .eventservice .collectioninfo {
+            height: 370px;
+        }
+
+        .eventservice .owl-nav {
+            width: 131px;
+        }
+
+        .collectioninfo {
+            padding-bottom: 0;
+        }
+
+        /************************************* MEMBER EVENT **********************************/
+
+
+        .heroimages img {
+            height: 186px;
+        }
+
+        .herosubimg img {
+            width: 47%;
+        }
+
+        .herosubimg {
+            margin: 12px 0px;
+        }
+
+        .storagetitle {
+            margin-top: 40px;
+        }
+
+        section.memevent p {
+            font-size: 16px;
+        }
+
+        .storagetitle h1 {
+            font-size: 28px !important;
+        }
+
+        .socialmeminfo {
+            padding-left: 20px;
+            padding-top: 12px;
+        }
+
+        .oureventtitle h2 {
+            font-size: 33px !important;
+        }
+
+        section.ourevent.moreeventheld .owl-nav {
+            bottom: -53px !important;
+        }
+
+        section.memevent p {
+            font-size: 15px;
+        }
+
+        section.ourevent.moreeventheld h2 {
+            font-size: 39px !important;
+        }
+
+        /******************************* INQUIRE **********************************************/
+        .contactdetail:after {
+            left: 71%;
+        }
+
+        .contacthero h1 {
+            font-size: 45px;
+        }
+
+        /******************************** DETAIL *********************************/
+        .infotitle h2 {
+            font-size: 25px;
+        }
+
+        ul.infocar {
+            display: block;
+            width: 100%;
+        }
+
+        ul.infocar li {
+            width: 100%;
+        }
+
+        ul.infocar {
+            margin-top: 50px;
+        }
+
+        section.infosection {
+            padding: 80px 24px;
+        }
+
+        .disinfo h3 {
+            font-size: 24px;
+        }
+
+        .disinfo {
+            margin-top: 35px;
+        }
+
+        .disinfo p {
+            font-size: 15px;
+        }
+
+        #display .owl-dots,
+        #displaysecond .owl-dots {
+            bottom: -24px;
+        }
+
+        .gamedetail h4 {
+            font-size: 24px;
+        }
+
+        .gamedetail p {
+            font-size: 17px;
+        }
+
+        section.\33 60sec {
+            height: 600px;
+        }
+
+        .configtitle h2 {
+            font-size: 27px;
+        }
+
+        .configtitle {
+            margin-bottom: 25px;
+        }
+
+        ul.modelfeature li {
+            width: 100%;
+        }
+
+        ul.averagedetail {
+            display: block;
+        }
+
+        ul.averagedetail li {
+            margin-bottom: 10px;
+        }
+
+        ul.averagedetail li h2 {
+            font-size: 40px;
+            line-height: 79px;
+        }
+
+        ul.averagedetail {
+            margin: 19px auto 0;
+        }
+
+        .gallerytitle h2 {
+            font-size: 42px;
+        }
+    }
+
+    @media only screen and (max-width: 349px) {
+
+        .storageimg {
+            padding: 52px 41px;
+        }
+
+        nav.navbar.navbar-expand-lg {
+            padding: 0 11px;
+        }
+
+        span.navbar-toggler-icon {
+            margin: 0;
+        }
+
+        .toggle-menu {
+            margin: 14px 0 !important;
+        }
+
+        header.mainheader {
+            padding: 0 19px !important;
+        }
+
+        .homeheroinfo h1 {
+            font-size: 40px;
+        }
+
+        section#section2 .storage h2 {
+            font-size: 34px;
+        }
+
+        .storageinfo:after {
+            font-size: 44px;
+        }
+
+        .storageinfo h2 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+
+        .storageinfo {
+            padding: 0 40px 51px;
+        }
+
+        .whitebtn {
+            /* align-items: center; */
+            /* justify-content: center; */
+            /* display: flex; */
+        }
+
+        .storieroadtitle h2 {
+            font-size: 27px;
+            padding: 0px;
+            line-height: 110px;
+        }
+
+        .storieroadtitle {
+            left: 20px;
+        }
+
+        section#section03 {
+            padding: 0;
+        }
+
+        section.storieroad:after {
+            width: 270px;
+            height: 130px;
+        }
+
+        .whitebtn {
+            margin-top: 40px;
+            display: flex;
+        }
+
+        .whitebtn.btnblack a {
+            margin: 0;
+        }
+
+        .whitebtn a:after {
+            width: 191px;
+        }
+
+        .contacttitleinfo h2 {
+            font-size: 45px;
+            margin: 0;
+        }
+
+        p.title {
+            margin: 0;
+        }
+
+        .whitebtn a {
+            width: 145px;
+            height: 41px;
+        }
+
+        .storageinfo.hostevent:after {
+            width: 145px;
+            height: 45px;
+        }
+
+        /***************************** MEMBERSHIP ***************************/
+        .infoheromember:after {
+            top: -100px;
+            font-size: 61px;
+            left: -229px;
+        }
+
+        .infoheromember h1 {
+            font-size: 42px;
+            line-height: 55px;
+        }
+
+        .meminfotext {
+            padding-top: 20px;
+        }
+
+        ul.memdetail p {
+            line-height: 40px;
+        }
+
+        section.membershiphero:after {
+            height: 101px;
+            width: 242px;
+        }
+
+        .socialmeminfo {
+            padding: 0;
+        }
+
+        ul.socialtext {
+            margin: 0;
+        }
+
+        .socialmeminfo h2 {
+            font-size: 26px;
+        }
+
+        ul.socialtext li {
+            margin-bottom: 8px;
+        }
+
+        .contacttitleinfo h2 {
+            font-size: 35px;
+        }
+
+        p.title {
+            font-size: 19px;
+        }
+
+        section.contact {
+            padding-bottom: 231px;
+        }
+
+        .contactimg {
+            bottom: -876px;
+        }
+
+        /************************************** STORAGES ***************************************/
+        .storagetitle h1 {
+            font-size: 24px !important;
+        }
+
+        .storagetitle p {
+            font-size: 13px;
+        }
+
+        .collectioninfo {
+            padding: 17px;
+        }
+
+        .storageoptiontitle h2 {
+            font-size: 22px;
+        }
+
+        aside.thumbnails {
+            flex-wrap: wrap;
+        }
+
+        a.thumbnail {
+            width: 50% !important;
+        }
+
+        .thumbnail-image {
+            width: 100%;
+            margin: 0;
+        }
+
+        a.storageimgpro {
+            width: 50% !important;
+        }
+
+        a.storageimgpro .thumbnail-image:after {
+            width: 102%;
+            height: 111%;
+            top: -4px;
+            left: 0;
+        }
+
+        .thumbnail-image {
+            width: 100%;
+            margin: 5px;
+        }
+
+        .container .vertical-tabs .col-md-3::-webkit-scrollbar {
+            display: none;
+        }
+
+        div#v-pills-tab {
+            margin-bottom: 20px;
+        }
+
+        .storageproductdetail h3 {
+            font-size: 35px;
+        }
+
+        section.storageimg {
+            height: 500px;
+        }
+
+        video {
+            height: 500px;
+        }
+
+        /***************************** CAR GUIDE **************************/
+        p.speed {
+            font-size: 25px;
+        }
+
+        p.speedname {
+            font-size: 16px;
+        }
+
+        section.toprated {
+            padding: 70px 0;
+        }
+
+        .guideinfo h1 {
+            font-size: 50px;
+        }
+
+        .topratedtitle h2 {
+            font-size: 38px;
+        }
+
+        .topratedtitle h2 {
+            font-size: 30px;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+        }
+
+        .topratedtitle {
+            margin-bottom: 40px;
+        }
+
+        .listtitle {
+            margin-bottom: 40px;
+        }
+
+        section.listcar {
+            padding: 60px 0;
+        }
+
+        .topratedinfo a {
+            font-size: 20px;
+        }
+
+        .topratedinfo p {
+            font-size: 15px;
+        }
+
+        .topratedtitle {
+            margin-bottom: 10px;
+        }
+
+        #guide .owl-nav {
+            bottom: -44px;
+        }
+
+        /*****************************  RANATL *********************************/
+        .eventrental h1 {
+            font-size: 45px;
+        }
+
+        .eventservice .collectioninfo {
+            padding: 26px;
+            height: 401px;
+        }
+
+
+        .brandtitle h3 {
+            font-size: 50px;
+        }
+
+
+        /************************************* MEMBER EVENT **********************************/
+        .oureventtitle h2 {
+            font-size: 30px !important;
+        }
+
+        .eventtype h3 {
+            font-size: 28px;
+        }
+
+        section.ourevent.moreeventheld h2 {
+            font-size: 33px !important;
+        }
+
+        .eventtype h3 {
+            font-size: 25px;
+        }
+
+        /******************************** INQUIRE ******************************************/
+        .contacthero h1 {
+            font-size: 50px;
+        }
+
+        .contactdetail p {
+            font-size: 13px;
+        }
+
+        .contactdetail {
+            left: 46%;
+        }
+
+        .contactdetail:after {
+            left: 66%;
+        }
+
+        section#section4 {
+            padding-bottom: 231px !important;
+        }
+
+        /*************************************** detail *******************************/
+        .infotitle h2 {
+            font-size: 21px;
+            margin-bottom: 20px !important;
+        }
+
+        .configtitle h2 {
+            font-size: 24px;
+        }
+
+    }
+
+    .infoheromember:after {
+        font-size: 85px;
+        left: -335px;
+    }
+
+    section.membershiphero:after {
+        left: 60px;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 44px;
+        margin-bottom: 31px;
+    }
+
+    section.toprated .owl-item .item {
+        margin: 20px 0;
+    }
+
+    /************************************** STORAGES ***************************************/
+    .image-gallery main.primary {
+        width: 100%;
+    }
+
+    .thumbnail-image {
+        margin: 2px 2px;
+    }
+
+    .storageproductdetail {
+        padding-left: 51px;
+    }
+
+    .storagetitle h1 {
+        font-size: 91px;
+        line-height: 131px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    .guideinfo h1 {
+        font-size: 70px;
+    }
+
+    .guideinfo p {
+        max-width: 331px;
+    }
+
+    .carlistinfo {
+        padding: 0 11px;
+    }
+
+    .viewdetail {
+        margin-right: 10px;
+    }
+
+    /*****************************  RANATL *********************************/
+    section.eventsec {
+        height: 760px;
+    }
+
+    section.eventsec img {
+        width: 60%;
+    }
+
+    section.eventsec img {
+        height: 850px;
+    }
+
+    .eventrental h1 {
+        font-size: 60px;
+        margin: 0;
+    }
+
+    .eventrental p {
+        max-width: 381px;
+    }
+
+    section.ourevent {
+        padding: 80px 0;
+    }
+
+    .oureventtitle h2 {
+        font-size: 80px;
+    }
+
+    div#event {
+        margin-top: 20px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 80px;
+    }
+
+    /************************************* MEMBER EVENT **********************************/
+    .heroimages img {
+        height: auto;
+    }
+
+    .storagetitle h1 {
+        font-size: 82px;
+        line-height: 115px;
+    }
+
+    .storagetitle h1 {
+        font-size: 57px;
+        margin-bottom: 20px;
+    }
+
+    /********************************** INQUIRE ****************************************/
+    header.mainheader {
+        padding: 0px !important;
+    }
+
+    .contactdetail p {
+        font-size: 17px;
+    }
+
+    .contactdetail p {
+        font-size: 17px;
+    }
+
+    /********************************** DETAIL ***********************************/
+    .infotitle h2 {
+        font-size: 34px;
+    }
+
+    .disinfo {
+        padding-left: 0;
+        margin-top: 60px;
+    }
+
+    #display .owl-dots,
+    #displaysecond .owl-dots {
+        bottom: 10px;
+    }
+
+    .gamedetail {
+        padding-left: 50px;
+        max-width: 468px !important;
+    }
+
+    ul.modelfeature {
+        padding: 15px;
+    }
+
+    ul.modelfeature li span {
+        font-size: 16px;
+    }
+
+    .configtitle h2 {
+        font-size: 52px !important;
+    }
+
+    .topratedinfo {
+        padding: 19px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .menu-container ul.menu ul.dropdown_menu.dropdown_menu-4 li {
+        margin-bottom: 2px;
+        background: #c0c0c0;
+    }
+
+    .menu-container ul.menu ul.dropdown_menu.dropdown_menu-4 li a {
+        color: white !important;
+    }
+
+    .menu-container ul.menu ul.dropdown_menu.dropdown_menu-4 li.dropdown_item-2 {
+        box-shadow: 10px 40px white;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ul.dropdown_menu.dropdown_menu-4 li a {
+        color: black !important;
+    }
+
+    section.herohome:after {
+        left: 0;
+    }
+
+    .homeheroinfo {
+        max-width: 650px;
+        margin: auto !important;
+        top: 0;
+        transform: translateY(0);
+        position: relative;
+    }
+
+    section.herohome {
+        height: auto;
+        padding: 100px 0;
+    }
+
+
+    .storageimg img {
+        max-width: 600px;
+    }
+
+    /************************************ MEMBERSHIP SECTION *****************************/
+    .contactinfo {
+        padding: 0 !important;
+    }
+
+    section.socialmem .col-lg-6:last-child {
+        padding: 0;
+    }
+
+    section.membershiphero {
+        height: 760px;
+    }
+
+    .meminfo {
+        /* margin-top: -67px; */
+    }
+
+    .infoheromember:after {
+        top: -90px;
+        font-size: 95px;
+        left: -368px;
+    }
+
+    section.socialmem.bgblack .col-lg-6:first-child {
+        order: 1;
+    }
+
+    .socialimg img {
+        height: 452px;
+        padding-bottom: 19px;
+    }
+
+    .socialimg {
+        text-align: center;
+    }
+
+    section.socialmem.bgblack {
+        padding: 0px 0px;
+    }
+
+    .socialmeminfo {
+        margin: auto;
+    }
+
+    .row.align-items-center.mem2 {
+        margin: 0;
+    }
+
+    section.socialmem {
+        padding-left: 0;
+    }
+
+    section.contact {
+        padding-bottom: 418px;
+    }
+
+    .contactimg {
+        right: -49px;
+    }
+
+    .socialmeminfo {
+        padding-top: 20px;
+    }
+
+    section.storieroad:after {
+        left: 187px;
+    }
+
+    section.membershiphero:after {
+        top: 230px;
+        right: 40px;
+        left: auto;
+        width: 325px;
+    }
+
+    .infoheromember h1 {
+        font-size: 60px;
+        line-height: 80px;
+    }
+
+    section.membershiphero .meminfo {
+        top: 64%;
+    }
+
+    .memberheroinfo {
+        padding: 0;
+    }
+
+    /************************************** STORAGES ***************************************/
+
+    .storageimg video {
+        left: 0;
+        height: 321px;
+    }
+
+    .storagemain {
+        /* padding-top: 0; */
+        /* padding-left: 100px; */
+        left: 0;
+        position: relative;
+        transform: translateY(0);
+        padding: 0;
+        top: 0;
+    }
+
+    .storagetitle h1 {
+        font-size: 61px !important;
+    }
+
+    .storagetitle {
+        text-align: center;
+    }
+
+    .storageoptiontitle h2 {
+        font-size: 47px;
+    }
+
+    section.storageoption {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+
+    .image-gallery {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    main.primary {
+        margin-bottom: 30px;
+    }
+
+    .storageproductdetail {
+        padding: 0;
+    }
+
+    section.storageoption.collection .owl-nav {
+        /* bottom: 0; */
+        /* bottom: auto; */
+        top: auto;
+    }
+
+    .storagetitle p {
+        font-size: 23px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    section.guidehero:after {
+        width: 50%;
+    }
+
+    .guideinfo {
+        text-align: center;
+        /* margin-right: 0; */
+    }
+
+    .guideinfo h1 {
+        font-size: 81px;
+        margin: 0;
+    }
+
+    .guideinfo {
+        max-width: 562px;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    #guide .owl-nav {
+        top: auto;
+        left: 50%;
+        right: auto;
+        transform: translate(-50%);
+        bottom: -50px;
+    }
+
+
+    .listcarinfo {
+        max-width: 232px;
+    }
+
+    .guideinfo p {
+        max-width: 600px;
+    }
+
+    .guideinfo h1 {
+        font-size: 50px;
+        line-height: 80px;
+    }
+
+    .topratedtitle {
+        margin-bottom: 10px;
+    }
+
+    .topratedimg {
+        margin-bottom: 21px;
+    }
+
+    section.toprated {
+        padding: 90px 0;
+    }
+
+    .viewdetail {
+        margin-right: 20px;
+    }
+
+    .topratedinfo a img {
+        margin-right: 0;
+    }
+
+    .col-lg-12.item {
+        margin: 50px 14px;
+    }
+
+    .listtitle {
+        margin-bottom: 40px;
+    }
+
+    section.listcar {
+        padding: 80px 0;
+    }
+
+    /*****************************  RANATL *********************************/
+    section.eventsec {
+        height: auto;
+    }
+
+    .oureventtitle h2 br {
+        display: none;
+    }
+
+    section.eventsec img {
+        filter: blur(3px);
+    }
+
+    section.eventsec img.playbtn {
+        filter: none;
+    }
+
+    .oureventtitle h2 {
+        font-size: 58px;
+        line-height: 100px;
+        margin: 0;
+    }
+
+    section.eventsec img {
+        width: 100%;
+        z-index: -999999;
+    }
+
+    .eventrental h1 {
+        color: white;
+    }
+
+    .eventrental p {
+        color: white;
+    }
+
+    .oureventtitle {
+        /* margin-bottom: 20px; */
+    }
+
+    section.ourevent {
+        padding: 61px 0;
+    }
+
+
+    section.infosection {
+        padding: 210px 40px;
+    }
+
+    ul.averagedetail {
+        justify-content: space-around;
+    }
+
+    ul.brand li {
+        width: 30%;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    ul.brand li.item {
+        width: 90%;
+    }
+
+    .eventmain {
+        top: 0;
+        position: relative;
+        transform: translateY(0);
+    }
+
+    .eventrental {
+        position: relative;
+    }
+
+    section.eventsec {
+        padding: 100px 0px;
+    }
+
+    .brandtitle {
+        margin: 0;
+    }
+
+
+    /************************************* MEMBER EVENT **********************************/
+
+    section.memevent .col-lg-6:first-child {
+        order: 1;
+    }
+
+    section.memevent {
+        height: 768px;
+    }
+
+    .heroimages {
+        padding-top: 81px;
+        text-align: center;
+    }
+
+    .heroimages img {
+        height: 170px;
+        width: 251px;
+    }
+
+    .storagetitle {
+        margin: auto;
+        /* margin-top: 60px; */
+    }
+
+    .storagetitle h1 {
+        font-size: 40px !important;
+        text-align: center !important;
+        line-height: 80px;
+        margin: 0;
+    }
+
+    section.moreaboutevent {
+        padding: 60px 0;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 47px;
+        line-height: 70px;
+    }
+
+    section.moreaboutevent .socialmeminfo h2 br {
+        display: none;
+    }
+
+    .socialmeminfo {
+        /* padding: 20px 21px; */
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    section.ourevent.moreeventheld .owl-nav {
+        top: auto !important;
+        bottom: -34px !important;
+    }
+
+    section.ourevent.moreeventheld {
+        padding-bottom: 91px;
+    }
+
+    section.ourevent.moreeventheld h2 {
+        font-size: 51px !important;
+    }
+
+    .eventtype h3 {
+        font-size: 23px;
+    }
+
+    .eventtype p {
+        font-size: 14px;
+    }
+
+    /*********************************************** INQUIRE **************************************************/
+    .contactdetail p {
+        font-size: 16px;
+        line-height: 76px;
+    }
+
+    .contactdetail:after {
+        /* left: 59%; */
+    }
+
+    /* 
+    .contactdetail:after {
+        display: none;
+    } */
+
+    .contactdetail {
+        /* display: block; */
+    }
+
+    section.contactmain {
+        height: auto;
+        padding: 100px 0;
+    }
+
+    .contactdetail:after {
+        /* transform: rotate(90deg); */
+        top: 50%;
+        left: 50%;
+    }
+
+    .contactdetail {
+        /* margin-bottom: -80px; */
+        position: relative;
+        top: 0;
+        transform: translateY(0);
+        top: auto;
+        bottom: -91px;
+        left: 114px;
+    }
+
+    .contacthero {
+        position: relative;
+        top: 0;
+        transform: translateY(0);
+        left: 38%;
+    }
+
+    .menu-container.menudrop ul.menu ul.dropdown_menu.dropdown_menu-4 li a {
+        color: white !important;
+    }
+
+    .menu-container.menudrop ul.menu ul.dropdown_menu.dropdown_menu-4 li {
+        border-bottom: 2px solid white;
+        background: #c0c0c0;
+        box-shadow: 0px 50px 5px white;
+    }
+
+    .menu-container.menudrop ul.menu ul.dropdown_menu.dropdown_menu-4 li:last-child {
+        border: none;
+    }
+
+    /* .menu-container.menudrop ul.dropdown_menu.dropdown_menu-4 {
+        box-shadow: 10px 30px 5px 12px white;
+    }
+
+    .menu-container.menudrop ul.dropdown_menu.dropdown_menu-4 li {
+        background: #C0C0C0;
+        border-bottom: 2px solid white;
+    }
+
+    .menu-container.menudrop ul.dropdown_menu.dropdown_menu-4 li a {
+        color: white !IMPORTANT;
+    }
+
+    .menu-container.menudrop ul.dropdown_menu.dropdown_menu-4 li:last-child {
+        border: none;
+    }
+ */
+
+    /**  Menu  **/
+
+    /**********  Responsive Menu  **********/
+
+
+    /************* section responsive css ****************************/
+
+
+
+    .storageinfo h2 {
+        font-size: 55px;
+        margin-bottom: 25px;
+    }
+
+    .storageimg {
+        text-align: center !important;
+        height: auto !important;
+        padding: 100px 0;
+    }
+
+
+    .whitebtn a {
+        width: 174px;
+        height: 46px;
+    }
+
+    .whitebtn a:after {
+        width: 174px;
+        height: 46px;
+    }
+
+
+    section.contact {
+        padding-bottom: 426px !important;
+    }
+
+    .contactimg {
+        bottom: -1123px !important;
+    }
+
+    .contacttitleinfo {
+        background: #f9f9f9;
+        padding: 31px;
+        width: 100% !important;
+        max-width: 1005 !important;
+        margin: auto;
+    }
+
+    .contactinfoinner {
+        margin-top: 40px;
+        padding: 30px 25px;
+    }
+
+    /************************************* detail *********************************/
+
+    section.average {
+        /* padding-right: 25px; */
+        padding-left: 25px;
+        /* height: 985px; */
+        background-position: center;
+    }
+
+    ul.averagedetail li h2 {
+        font-size: 52px;
+        margin: 0;
+    }
+
+    ul.averagedetail li p {
+        font-size: 18px;
+    }
+
+    ul.modelfeature li {
+        width: 28%;
+    }
+
+    ul.modelfeature {
+        margin-top: 50px;
+    }
+
+    .configtitle h2 {
+        font-size: 40px !important;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .infoheromember h1 {
+        font-size: 45px;
+        line-height: 66px;
+    }
+
+
+    .storageinfo h2 {
+
+        margin-bottom: 15px;
+    }
+
+    div#road {
+        padding: 79px 0px;
+    }
+
+
+
+    p.text {
+        max-width: 451px;
+        margin-bottom: 0 !important;
+    }
+
+    .storageimg img {
+        width: 100%;
+        height: auto;
+    }
+
+    .storieroadtitle h2 {
+        font-size: 38px;
+        /* padding-top: 6px; */
+    }
+
+    .storieroadtitle {
+        left: 39px;
+        top: 21px;
+    }
+
+    #road .owl-nav {
+        left: 0;
+    }
+
+    .slider-counter {
+        left: 89px;
+    }
+
+    .storageinfo {
+        padding: 0 50px 60px 27px;
+    }
+
+    section.storieroad:after {
+        left: 98px;
+    }
+
+
+    section.herohome:after {
+        width: 715px;
+    }
+
+    section#section4 {
+        padding-bottom: 371px !important;
+    }
+
+    .contactimg {
+        bottom: -1006px !important;
+    }
+
+    .contactinfoinner {
+        padding: 0 10px;
+    }
+
+    .contactinfo {
+        padding: 0 !important;
+    }
+
+    .contacttitleinfo {
+        max-width: 100%;
+        margin: auto;
+    }
+
+    section.herohome {
+        height: 768px;
+    }
+
+    .contacttitleinfo {
+        padding: 15px;
+    }
+
+    p.title {
+        margin: 0;
+    }
+
+    section.vihiclestorage {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .storageimg {
+        padding: 50px 0;
+    }
+
+    /******************************************* MEMBERSHIP *****************************************************/
+    .socialimg {
+        padding-top: 27px;
+    }
+
+    section.contact {
+        padding-bottom: 368px !important;
+        padding-top: 0;
+    }
+
+    .socialimg img {
+        height: 420px;
+    }
+
+    section.membershiphero:after {
+        width: 238px;
+        top: 211px;
+        right: 23px;
+    }
+
+    /************************************** STORAGES ***************************************/
+    .storagetitle {
+        text-align: center;
+    }
+
+    .storagetitle h1 {
+        text-align: center !important;
+        display: flex;
+        justify-content: center !important;
+    }
+
+    .storagetitle h1 {
+        font-size: 42px !important;
+        margin: 0;
+        text-align: center !important;
+    }
+
+
+
+    .storagetitle {
+        text-align: center;
+    }
+
+    .storagetitle p {
+        font-size: 21px;
+    }
+
+    .storageoptiontitle h2 {
+        font-size: 35px;
+    }
+
+    section.storageoption section {
+        padding-top: 25px;
+    }
+
+    section.storageimg {
+        height: 600px !important;
+        height: auto;
+    }
+
+    section.storageimg video {
+        height: 600px;
+    }
+
+    section.storageoption.collection .owl-nav {
+        right: 0;
+        justify-content: space-around;
+        bottom: -29px;
+        margin: 0;
+    }
+
+    .storagemain {
+        top: 129px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    ul.listinfo li {
+        flex-wrap: wrap;
+    }
+
+    .viewdetail {
+        margin-top: 30px;
+    }
+
+    .listcarimg {
+        /* margin-bottom: 60px; */
+    }
+
+    .listcarinfo {
+        max-width: 211px;
+    }
+
+    .listcarinfo h5 {
+        font-size: 21px;
+    }
+
+    #guide .owl-nav {
+        width: 100%;
+        max-width: 100% !important;
+        /* text-align: center; */
+        bottom: -30px;
+    }
+
+    .guideinfo h1 {
+        font-size: 45px;
+    }
+
+    .topratedtitle h2 {
+        font-size: 45px;
+    }
+
+    .listtitle h2 {
+        font-size: 40px;
+    }
+
+    /*****************************  RANATL *********************************/
+    .contacttitleinfo h2 {
+        font-size: 45px;
+        margin: 0;
+    }
+
+    section.eventsec {
+        height: 700px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 65px;
+        line-height: 90px;
+    }
+
+    .oureventtitle h2 {
+        line-height: 90px;
+    }
+
+    .brandtitle {
+        margin-bottom: 60px;
+    }
+
+    /************************************* MEMBER EVENT **********************************/
+    .storagetitle h1 {
+        font-size: 30px !important;
+        line-height: 70px;
+    }
+
+    .socialmeminfo {
+        padding-left: 0;
+        /* padding-left: 30px; */
+    }
+
+    .oureventtitle h2 {
+        font-size: 50px !important;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 44px;
+        margin-bottom: 16px;
+    }
+
+    section.ourevent.moreeventheld h2 {
+        font-size: 45px !important;
+        margin: 0;
+    }
+
+    .oureventtitle {
+        /* margin: 0; */
+    }
+
+    /******************************** inquire *****************************************/
+
+
+
+    .contactdetail p {
+        font-size: 15px;
+        text-align: center !important;
+    }
+
+    .contactdetail:after {
+        left: 54%;
+    }
+
+    .contactdetail {
+        left: 68px;
+    }
+
+    .contacthero {
+        left: 200px;
+    }
+
+    /*********************************** DETAIL **********************************/
+    ul.heroinfo li ul {
+        padding: 0;
+    }
+
+    ul.heroinfo li ul li span {
+        margin: 0 39px;
+    }
+
+    .infotitle h2 {
+        margin-bottom: 30px !important;
+    }
+
+    .gamedetail h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .gamedetail p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    section.\33 60sec {
+        height: 790px;
+    }
+
+    .configtitle h2 {
+        /* font-size: 40px; */
+        font-size: 30px !important;
+    }
+
+    .configtitle {
+        margin-bottom: 10px;
+    }
+
+    ul.modelfeature li {
+        width: 50%;
+    }
+
+    ul.averagedetail li h2 {
+        font-size: 45px;
+    }
+
+    ul.averagedetail li p {
+        font-size: 17px;
+    }
+
+    .gallerytitle h2 {
+        font-size: 50px;
+    }
+
+    ul.modelfeature:after {
+        display: none;
+    }
+
+    .model {
+        padding: 40px 15px 4px;
+    }
+
+    .pl-5,
+    .px-5 {
+        padding-left: 15px !important;
+    }
+
+    p.speed {
+        font-size: 38px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .toggle-menu {
+        margin: 11px 0 !important;
+    }
+
+    .homeheroinfo {
+        /* padding-left: 20px; */
+        left: 30px;
+    }
+
+    p.text {
+        max-width: 361px;
+    }
+
+    section.storieroad:after {
+        left: 72px;
+        width: 330px;
+        height: 130px;
+    }
+
+    .contactinfoinner {
+        width: 100%;
+        padding-right: 0;
+        padding: 0 !important;
+    }
+
+    section#section4 {
+        padding-bottom: 310px !important;
+    }
+
+    .contactimg {
+        bottom: -906px !important;
+        right: -50px;
+    }
+
+    section#section2 .storage h2 {
+        font-size: 41px;
+        margin-bottom: 5px;
+    }
+
+    .storageinfo h2 {
+        font-size: 45px;
+        margin-bottom: 10px;
+    }
+
+    .owl-item .item {
+        /* margin: 10px 10px 10px 0px; */
+    }
+
+    input.contactinfo {
+        padding-left: 20px !important;
+    }
+
+    /******************************** MEMBERSHIP ********************************/
+    .infoheromember h1 {
+        font-size: 40px;
+        line-height: 54px;
+    }
+
+    .infoheromember:after {
+        font-size: 85px;
+        left: -338px;
+        top: -90px;
+    }
+
+    .meminfotext {
+        padding-top: 11px;
+    }
+
+    ul.memdetail p {
+        margin: 0;
+    }
+
+    .socialimg img {
+        height: 351px;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 36px;
+        margin-bottom: 0;
+    }
+
+    section.socialmem {
+        padding-bottom: 30px;
+    }
+
+    .contacttitleinfo h2 {
+        font-size: 35px;
+        line-height: 65px;
+    }
+
+    section.contact {
+        padding-bottom: 303px !important;
+    }
+
+    section.membershiphero:after {
+        width: 209px;
+        top: 182px;
+        right: 20px;
+    }
+
+    .contacttitleinfo {
+        padding: 13px !important;
+    }
+
+    .socialmeminfo {
+        padding-top: 0px;
+    }
+
+    .meminfo {
+        top: 499px !important;
+    }
+
+    .socialimg {
+        padding-top: 0;
+    }
+
+    section.socialmem {
+        height: 950px !important;
+    }
+
+    .form-group label {
+        font-size: 15px;
+    }
+
+    .contactinfoinner p {
+        font-size: 17px;
+        margin-top: 0;
+    }
+
+    .whitebtn a {
+        margin-top: -9px !important;
+    }
+
+    /************************************** STORAGES ***************************************/
+    .storagetitle h1 {
+        font-size: 30px !important;
+        line-height: 87px;
+    }
+
+    .storagemain {
+        padding-left: 41px;
+        top: 227px;
+        left: -19px;
+    }
+
+    .storagetitle p {
+        font-size: 21px;
+    }
+
+    .storageoptiontitle h2 {
+        font-size: 30px;
+        margin: 0;
+    }
+
+    div#v-pills-tab {
+        flex-wrap: nowrap;
+        min-width: 478px;
+    }
+
+    .container .vertical-tabs .col-md-3 {
+        overflow: auto;
+    }
+
+    div#v-pills-tab .nav-link.active,
+    .nav-pills .show>.nav-linkq {
+        font-size: 22px;
+    }
+
+    .thumbnail-image {
+        width: 80px;
+        height: 80px;
+    }
+
+    section.storageimg {
+        height: 620px !important;
+        padding: 0 0;
+    }
+
+    section.storageimg video {
+        height: 620px;
+    }
+
+    a.storageimgpro .thumbnail-image:after {
+        width: 81px;
+    }
+
+    section.storageoption.collection .owl-nav {
+        bottom: -20px;
+    }
+
+    section.storageoption {
+        padding-bottom: 60px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .storageoptiontitle {
+        margin: 0 !important;
+    }
+
+    .collectioninfo {
+        padding: 18px;
+        height: 411px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    p.speed {
+        font-size: 37px;
+    }
+
+    .topratedtitle {
+        margin-bottom: 0;
+    }
+
+    section.toprated {
+        padding: 100px 0px;
+    }
+
+    #guide .owl-nav {
+        bottom: -40px;
+        text-align: center;
+        left: 240px;
+    }
+
+    .listcarinfo {
+        margin-top: 31px;
+    }
+
+    .viewdetail {
+        margin-right: 0px;
+        margin-top: 130px;
+    }
+
+    section.listcar {
+        padding: 40px 0;
+    }
+
+    .listtitle {
+        margin-bottom: 40px;
+    }
+
+    header.memberheader.fixed {
+        padding: 0;
+    }
+
+    .guideinfo h1 {
+        font-size: 40px;
+    }
+
+    .topratedtitle h2 {
+        font-size: 30px;
+    }
+
+    .listtitle h2 {
+        font-size: 33px;
+    }
+
+    .carlistinfo {
+        padding-left: 0;
+    }
+
+    /*****************************  RANATL *********************************/
+    .eventrental p {
+        color: black;
+    }
+
+    section.eventsec {
+        height: 620px;
+    }
+
+    .eventrental h1 {
+        font-size: 55px;
+        line-height: 100px;
+        color: black;
+    }
+
+    .oureventtitle h2 {
+        font-size: 60px;
+        line-height: 85px;
+    }
+
+    ul.brand li {
+        width: 40%;
+    }
+
+    section.eventservice .item {
+        margin: 0;
+    }
+
+    .brandtitle {
+        margin-bottom: 0;
+    }
+
+
+    /************************************* MEMBER EVENT **********************************/
+    .heroimages img {
+        height: 164px;
+        width: auto;
+    }
+
+    .oureventtitle h2 {
+        font-size: 45px !important;
+    }
+
+    .storagetitle {
+        /* margin-top: 10px; */
+    }
+
+    section.ourevent.moreeventheld .owl-nav {
+        bottom: -39px !important;
+    }
+
+    section.ourevent.moreeventheld h2 {
+        font-size: 30px !important;
+    }
+
+    /********************************** INQUIRe ***********************************/
+    .contactdetail {
+        width: 100% !important;
+        max-width: 100% !important;
+        left: 10px;
+    }
+
+    .contactdetail p {
+        margin: 0 20px;
+        font-size: 14px;
+    }
+
+    .contactdetail:after {
+        left: 68%;
+    }
+
+    .contacthero {
+        left: 149px;
+    }
+
+    /************************************** DETAIL *****************************************/
+    section.gamesec .col-lg-6:nth-child(2) {
+        order: -1;
+    }
+
+    section.gamesec .col-lg-6 {
+        width: 100% !important;
+        max-width: 100%;
+    }
+
+    .gamedetail {
+        padding: 30px 41px;
+    }
+
+    .gamedetail h4 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .gamedetail p {
+        font-size: 19px;
+        max-width: 354px;
+    }
+
+    .configtitle h2 {
+        font-size: 39px !important;
+    }
+
+    ul.modelfeature li {
+        width: 34%;
+    }
+
+    ul.modelfeature:after {
+        display: none;
+    }
+
+    ul.galleryimg {
+        display: inline-block;
+        display: block;
+    }
+
+    section.infosection {
+        padding: 70px 0;
+    }
+
+    ul.heroinfo li h1 {
+        font-size: 35px;
+    }
+
+    .infotitle h2 {
+        font-size: 30px;
+    }
+
+    ul.modelfeature li span {
+        font-size: 14px;
+    }
+
+    section.gallary {
+        padding-bottom: 0;
+    }
+
+    /************************************************* DETAIL *************************************************/
+    ul.heroinfo {
+        display: block;
+    }
+
+    ul.heroinfo li ul {
+        margin-top: 40px !important;
+    }
+
+    ul.heroinfo li ul li span.opacity {
+        padding-left: 102px;
+    }
+
+    ul.heroinfo li ul li span {
+        margin: 0 !important;
+    }
+
+    ul.heroinfo li ul li:after {
+        left: 23%;
+    }
+
+    ul.heroinfo p {
+        font-size: 18px;
+    }
+
+    #display .owl-dots,
+    #displaysecond .owl-dots {
+        bottom: -20px;
+    }
+
+    .disinfo {
+        margin-top: 43px;
+    }
+
+    .disinfo h3 {
+        font-size: 27px;
+    }
+
+    .disinfo p {
+        font-size: 17px;
+    }
+
+    .gallerytitle h2 {
+        font-size: 35px;
+    }
+
+    section.average {
+        background-position: center;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .storageinfo h2 {
+        font-size: 46px;
+    }
+
+    .contacttitleinfo h2 {
+        font-size: 32px;
+        margin: 0;
+    }
+
+    p.title {
+        margin: 0;
+        font-size: 18px;
+        line-height: 14px;
+    }
+
+    .toggle-menu {
+        margin: 10px 0 !important;
+    }
+
+    p.text {
+        max-width: 291px;
+        font-size: 14px;
+        line-height: 43px !important;
+    }
+
+    section#section2 .storage h2 {
+        font-size: 40px;
+        margin: 0;
+    }
+
+    .storageinfo:after {
+        font-size: 51px;
+    }
+
+    .storieroadtitle h2 {
+        font-size: 30px;
+        padding-top: 11px;
+    }
+
+    section.storieroad:after {
+        left: 53px;
+        height: 100px;
+        width: 261px;
+    }
+
+    .contactinfoinner {
+        margin-top: 60px;
+        padding-left: 0 !important;
+    }
+
+    .contactimg {
+        bottom: -846px !important;
+    }
+
+    section#section4 {
+        padding-bottom: 233px !important;
+    }
+
+    input.contactinfo {
+        padding-left: 19px !important;
+    }
+
+    section.herohome {
+        height: 600px;
+    }
+
+    .homeheroinfo {
+        top: auto;
+        left: 0;
+    }
+
+    .homeheroinfo h1 {
+        font-size: 40px;
+        line-height: 100px;
+    }
+
+    /************************* MEMBERSHIP **********************************/
+    .infoheromember h1 {
+        font-size: 35px;
+        line-height: 54px;
+    }
+
+    .memberheroinfo {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .infoheromember:after {
+        font-size: 65px;
+        left: -251px;
+    }
+
+    section.membershiphero:after {
+        width: 171px;
+        top: 180px;
+        right: 10px;
+    }
+
+    .socialimg img {
+        height: 315px;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 30px;
+    }
+
+    section.contact {
+        padding-bottom: 239px !important;
+        padding-top: 30px;
+    }
+
+    nav.navbar.navbar-expand-lg a.navbar-brand {
+        width: 160px;
+    }
+
+    .whitebtn a {
+        font-size: 14px;
+        width: 136px;
+        height: 40px;
+        margin-top: 30px !important;
+    }
+
+    .whitebtn a:after {
+        width: 136px;
+        height: 40px;
+    }
+
+    .whitebtn {
+        margin-top: 0;
+    }
+
+    ul.socialtext li {
+        margin-bottom: 10px;
+    }
+
+    section.socialmem {
+        padding-bottom: 0;
+    }
+
+    section.socialmem {
+        height: 910px !important;
+    }
+
+    /************************************** STORAGES ***************************************/
+
+    .container .vertical-tabs .col-md-3::-webkit-scrollbar {
+        display: none;
+    }
+
+    .storagetitle h1 {
+        font-size: 32px !important;
+        line-height: 90px;
+    }
+
+    .storagetitle p {
+        font-size: 16px;
+    }
+
+    .storageoptiontitle h2 {
+        font-size: 26px;
+    }
+
+    div#v-pills-tab {
+        min-width: 482px;
+        margin-bottom: 20px;
+    }
+
+    div#v-pills-tab .nav-link.active,
+    .nav-pills .show>.nav-linkq {
+        padding: 0;
+    }
+
+    div#v-pills-tab .nav-link {
+        padding: 0;
+    }
+
+    .thumbnail-image {
+        width: 74px;
+        height: 74px;
+    }
+
+    a.storageimgpro .thumbnail-image:after {
+        width: 74px;
+    }
+
+    .collectioninfo {
+        padding-bottom: 412px;
+    }
+
+    .storagemain {
+        top: 40%;
+        padding: 0;
+        left: 0;
+    }
+
+    .collectioninfo h3 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+
+    .collectioninfo img {
+        margin-bottom: 20px;
+    }
+
+    section.storageoption.collection .owl-nav {
+        bottom: -29px;
+    }
+
+    .storageproductdetail p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    div#v-pills-tab .nav-link {
+        margin-right: 21px;
+    }
+
+    .storageproductdetail h3 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+
+    section.storageoption section {
+        padding-bottom: 0;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    .guideinfo {
+        margin-bottom: 10px;
+    }
+
+    ul.speed {
+        margin-top: 70px;
+    }
+
+    .guideinfo h1 {
+        font-size: 34px;
+        line-height: 50px;
+    }
+
+    .guideinfo p {
+        font-size: 16px;
+    }
+
+    p.speed {
+        font-size: 30px;
+    }
+
+    p.speedname {
+        FONT-SIZE: 19px;
+    }
+
+    .topratedtitle h2 {
+        font-size: 30px;
+    }
+
+    .topratedtitle {
+        margin-bottom: 0px;
+    }
+
+    section.toprated {
+        /* padding: 60px 0; */
+    }
+
+    #guide .owl-nav {
+        bottom: -19px;
+        display: flex;
+        text-align: center !important;
+        justify-content: center;
+    }
+
+    #guide .owl-nav {
+        bottom: -54px;
+        left: 51%;
+    }
+
+    .listtitle h2 {
+        font-size: 30px;
+    }
+
+    .listcarimg {
+        margin: 0;
+    }
+
+    .listcarinfo {
+        max-width: 311px;
+    }
+
+    .viewdetail {
+        margin-top: 30px;
+        margin-left: 0;
+    }
+
+    .topratedimg {
+        margin-bottom: 30px;
+    }
+
+    section.toprated {
+        padding: 35px 0px;
+        height: 649px;
+    }
+
+    .listtitle {
+        margin-bottom: 0;
+    }
+
+    section.listcar {
+        padding: 20px 0;
+    }
+
+    /*****************************  RANATL *********************************/
+    section.ourclientsec .owl-nav {
+        /* width: 180px; */
+        display: flex;
+        justify-content: center;
+        margin-left: 43px;
+    }
+
+    div#event .owl-nav {
+        width: 176px;
+        margin-left: 80px;
+    }
+
+    .brandtitle h3 {
+        font-size: 48px;
+    }
+
+    section.eventsec {
+        height: 620px;
+    }
+
+    .eventrental h1 {
+        font-size: 50px;
+        line-height: 100px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 60px;
+        line-height: 85px;
+    }
+
+    section.eventsec {
+        height: 580px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 50px;
+        line-height: 70px;
+    }
+
+    .eventservice .collectioninfo {
+        height: 370px;
+    }
+
+    .eventservice .owl-nav {
+        width: 181px;
+        margin-left: 80px;
+    }
+
+    .collectioninfo {
+        padding: 18px;
+        height: auto;
+    }
+
+    section.ourclientsec .owl-nav {
+        margin-top: 20px !important;
+    }
+
+    section.eventsec img.playbtn {
+        left: 250px;
+    }
+
+    section.ourclientsec {
+        padding-top: 0;
+    }
+
+    /************************************* MEMBER EVENT **********************************/
+
+    .heroimages img {
+        height: 163px;
+    }
+
+    .herosubimg img {
+        width: 47%;
+    }
+
+    .herosubimg {
+        margin: 12px 0px;
+    }
+
+    section.memevent p {
+        font-size: 16px;
+    }
+
+    .storagetitle h1 {
+        font-size: 26px !important;
+        line-height: 60px;
+    }
+
+    .socialmeminfo {
+        /* padding-left: 10px; */
+        padding-top: 12px;
+    }
+
+    .oureventtitle h2 {
+        font-size: 33px !important;
+    }
+
+    section.ourevent.moreeventheld .owl-nav {
+        bottom: 5px !important;
+    }
+
+    section.memevent p {
+        font-size: 13px;
+    }
+
+    section.ourevent.moreeventheld h2 {
+        font-size: 30px !important;
+    }
+
+    section.moreaboutevent {
+        padding-bottom: 40px;
+    }
+
+    section.ourevent.moreeventheld {
+        padding-bottom: 20px;
+        padding-top: 35px;
+    }
+
+    /******************************* INQUIRE **********************************************/
+    .contactdetail:after {
+        left: 49%;
+        transform: rotate(90deg);
+        top: 62px;
+    }
+
+    .contacthero {
+        left: 112px;
+        top: 19px;
+    }
+
+    .contactdetail {
+        left: 0px;
+        display: block;
+    }
+
+    /******************************** DETAIL *********************************/
+    .infotitle h2 {
+        font-size: 25px;
+    }
+
+    ul.infocar {
+        display: block;
+        width: 100%;
+    }
+
+    ul.infocar li {
+        width: 100%;
+    }
+
+    ul.infocar {
+        margin-top: 50px;
+    }
+
+    section.infosection {
+        padding: 80px 0px;
+    }
+
+    .disinfo h3 {
+        font-size: 24px;
+    }
+
+    .disinfo {
+        margin-top: 35px;
+    }
+
+    .disinfo p {
+        font-size: 15px;
+    }
+
+    #display .owl-dots,
+    #displaysecond .owl-dots {
+        bottom: -24px;
+    }
+
+    .gamedetail h4 {
+        font-size: 20px;
+    }
+
+    .gamedetail p {
+        font-size: 17px;
+    }
+
+    section.\33 60sec {
+        height: 600px;
+    }
+
+    .configtitle h2 {
+        font-size: 27px !important;
+    }
+
+    .configtitle {
+        margin-bottom: 0;
+    }
+
+    ul.modelfeature li {
+        width: 100%;
+    }
+
+    ul.averagedetail {
+        display: block;
+    }
+
+    ul.averagedetail li {
+        margin-bottom: 10px;
+    }
+
+    ul.averagedetail li h2 {
+        font-size: 40px;
+        line-height: 79px;
+    }
+
+    ul.averagedetail {
+        margin: 19px auto 0;
+    }
+
+    .gallerytitle h2 {
+        font-size: 34px;
+        line-height: 2;
+    }
+
+    .topratedinfo a img {
+        margin-right: 10px !important;
+    }
+
+    #gallery .owl-nav {
+        top: auto;
+    }
+
+    section.gallary {
+        padding-bottom: 60px;
+    }
+
+    ul.heroinfo li ul li:after {
+        left: 30%;
+    }
+
+    p.speedname {
+        font-size: 17px;
+    }
+
+    .modelinfo p {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 349px) {
+    nav.navbar.navbar-expand-lg a.navbar-brand {
+        width: 145px;
+    }
+
+    p.text {
+        max-width: 261px;
+    }
+
+    .storageimg {
+        padding: 50px 0;
+    }
+
+    nav.navbar.navbar-expand-lg {
+        padding: 0 11px;
+    }
+
+    span.navbar-toggler-icon {
+        margin: 0;
+    }
+
+    .homeheroinfo h1 {
+        font-size: 40px;
+    }
+
+    section#section2 .storage h2 {
+        font-size: 34px;
+    }
+
+    .storageinfo:after {
+        font-size: 44px;
+    }
+
+    .storageinfo h2 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+
+    .storageinfo {
+        padding: 0 40px 51px 26px;
+    }
+
+    .whitebtn {
+        /* align-items: center; */
+        /* justify-content: center; */
+        /* display: flex; */
+    }
+
+    .storieroadtitle h2 {
+        font-size: 27px;
+        padding: 0px;
+        line-height: 110px;
+    }
+
+    .storieroadtitle {
+        left: 20px;
+    }
+
+    section#section03 {
+        padding: 0;
+    }
+
+    section.storieroad:after {
+        width: 240px;
+        height: 90px;
+        left: 37px;
+    }
+
+    .whitebtn {
+        margin-top: 40px;
+        display: flex;
+    }
+
+    .whitebtn.btnblack a {
+        margin: 0;
+        margin-top: 0 !important;
+    }
+
+    .contacttitleinfo h2 {
+        font-size: 45px;
+        margin: 0;
+    }
+
+    p.title {
+        margin: 0;
+    }
+
+    section#section4 {
+        padding-bottom: 230px !important;
+    }
+
+    .whitebtn a {
+        margin-top: 0 !important;
+    }
+
+    /***************************** MEMBERSHIP ***************************/
+    .infoheromember:after {
+        top: -100px;
+        font-size: 61px;
+        left: -229px;
+    }
+
+    .infoheromember h1 {
+        font-size: 31px;
+        line-height: 42px;
+    }
+
+    .meminfotext {
+        padding-top: 0;
+    }
+
+    ul.memdetail p {
+        line-height: 39px !important;
+    }
+
+    section.membershiphero:after {
+        width: 156px;
+        left: 148px;
+        top: 173px;
+    }
+
+    .socialmeminfo {
+        padding: 0;
+    }
+
+    ul.socialtext {
+        margin: 0;
+    }
+
+    .socialmeminfo h2 {
+        font-size: 26px;
+    }
+
+    ul.socialtext li {
+        margin-bottom: 8px;
+    }
+
+    .contacttitleinfo h2 {
+        font-size: 30px;
+        line-height: 70px;
+    }
+
+    p.title {
+        font-size: 16px;
+    }
+
+    section.contact {
+        padding-bottom: 231px !important;
+    }
+
+    .contactimg {
+        bottom: -849px !important;
+    }
+
+    .socialimg {
+        padding: 0 10px;
+    }
+
+    /************************************** STORAGES ***************************************/
+    section.storageoption.collection .owl-nav {
+        width: 291px;
+    }
+
+    .storagetitle h1 {
+        font-size: 24px !important;
+        line-height: 51px;
+    }
+
+    .storagetitle p {
+        font-size: 13px;
+    }
+
+    .collectioninfo {
+        padding: 17px;
+    }
+
+    .storageoptiontitle h2 {
+        font-size: 22px;
+    }
+
+    aside.thumbnails {
+        flex-wrap: wrap;
+    }
+
+    a.thumbnail {
+        width: 50% !important;
+    }
+
+    .thumbnail-image {
+        width: 100%;
+        margin: 0;
+    }
+
+    a.storageimgpro {
+        width: 50% !important;
+    }
+
+    a.storageimgpro .thumbnail-image:after {
+        width: 102%;
+        height: 111%;
+        top: -4px;
+        left: 0;
+    }
+
+    .thumbnail-image {
+        width: 100%;
+        margin: 5px;
+    }
+
+    .container .vertical-tabs .col-md-3::-webkit-scrollbar {
+        display: none;
+    }
+
+    div#v-pills-tab {
+        margin-bottom: 20px;
+    }
+
+    .storageproductdetail h3 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    /***************************** CAR GUIDE **************************/
+    p.speed {
+        font-size: 25px;
+    }
+
+    p.speedname {
+        font-size: 16px;
+    }
+
+    section.toprated {
+        padding: 10px 0 0;
+        height: 560px;
+    }
+
+    .guideinfo h1 {
+        font-size: 30px;
+    }
+
+    .topratedtitle h2 {
+        font-size: 38px;
+    }
+
+    .topratedtitle h2 {
+        font-size: 30px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .topratedtitle {
+        margin-bottom: 40px;
+    }
+
+    .listtitle {
+        margin-bottom: 20px;
+    }
+
+    section.listcar {
+        padding: 25px 0;
+    }
+
+    .topratedinfo a {
+        font-size: 20px;
+    }
+
+    .topratedinfo p {
+        font-size: 15px;
+    }
+
+    .topratedtitle {
+        margin-bottom: 0;
+    }
+
+    #guide .owl-nav {
+        bottom: -35px;
+    }
+
+    /*****************************  RANATL *********************************/
+    .eventrental h1 {
+        font-size: 45px;
+    }
+
+    .eventservice .collectioninfo {
+        padding: 16px;
+        height: 341px;
+    }
+
+
+    .brandtitle h3 {
+        font-size: 50px;
+    }
+
+    section.ourevent {
+        padding: 20px 0px;
+    }
+
+    div#event .owl-nav {
+        margin-top: 0;
+        margin-left: 56px;
+    }
+
+    section.eventservice {
+        padding: 40px 0;
+    }
+
+    .eventservice .owl-nav {
+        margin-left: 54px;
+    }
+
+    section.ourclientsec {
+        padding: 0;
+    }
+
+    .brandtitle {
+        margin: 0;
+    }
+
+    section.ourclientsec .owl-nav {
+        text-align: center;
+        margin-right: 0;
+        width: 320px;
+        margin-left: 0;
+    }
+
+    section.ourclientsec .owl-nav button {
+        margin-right: 31px;
+    }
+
+    /************************************* MEMBER EVENT **********************************/
+    .oureventtitle h2 {
+        font-size: 30px !important;
+    }
+
+    .eventtype h3 {
+        font-size: 28px;
+    }
+
+    section.ourevent.moreeventheld h2 {
+        font-size: 24px !important;
+    }
+
+    .eventtype h3 {
+        font-size: 24px;
+        margin-bottom: 12px;
+    }
+
+    section.ourevent.moreeventheld .owl-nav {
+        bottom: -18px !important;
+        width: 194px;
+        left: 50px;
+    }
+
+    /************************************ ingquire *********************************/
+    .contacthero h1 {
+        font-size: 35px;
+    }
+
+    .contactdetail p {
+        margin: 0;
+    }
+}
